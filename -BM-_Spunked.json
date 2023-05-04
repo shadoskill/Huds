@@ -1,0 +1,195 @@
+{
+  "name": "-BM-/Spunked",
+  "version": "0.2",
+  "categories": {
+    "Cum On": {
+      "button_CumFacial": {
+        "content": "Facial",
+        "channel": 4953,
+        "command": "Request*CumFacial*!~uuidTarget~!*1"
+      },
+      "button_CumChest": {
+        "content": "Chest",
+        "channel": 4953,
+        "command": "Request*CumChest*!~uuidTarget~!*1"
+      },
+      "button_CumBack": {
+        "content": "Back",
+        "channel": 4953,
+        "command": "Request*CumBack*!~uuidTarget~!*1"
+      },
+      "button_CumGroin": {
+        "content": "Groin",
+        "channel": 4953,
+        "command": "Request*CumGroin*!~uuidTarget~!*1"
+      },
+      "button_CumButt": {
+        "content": "Butt",
+        "channel": 4953,
+        "command": "Request*CumButt*!~uuidTarget~!*1"
+      },
+      "button_CumArms": {
+        "content": "Arms",
+        "channel": 4953,
+        "command": "Request*CumArms*!~uuidTarget~!*1"
+      },
+      "button_CumLegs": {
+        "content": "Legs",
+        "channel": 4953,
+        "command": "Request*CumLegs*!~uuidTarget~!*1"
+      },
+      "button_CumCreampie": {
+        "content": "Creampie",
+        "channel": 4953,
+        "command": "Request*CumCreampie*!~uuidTarget~!*1"
+      }
+    },
+    "Clean Off": {
+      "button_CleanFacial": {
+        "content": "Facial",
+        "channel": 4953,
+        "command": "Request*CumFacial*!~uuidTarget~!*-1"
+      },
+      "button_CleanChest": {
+        "content": "Chest",
+        "channel": 4953,
+        "command": "Request*CumChest*!~uuidTarget~!*-1"
+      },
+      "button_CleanBack": {
+        "content": "Back",
+        "channel": 4953,
+        "command": "Request*CumBack*!~uuidTarget~!*-1"
+      },
+      "button_CleanGroin": {
+        "content": "Groin",
+        "channel": 4953,
+        "command": "Request*CumGroin*!~uuidTarget~!*-1"
+      },
+      "button_CleanButt": {
+        "content": "Butt",
+        "channel": 4953,
+        "command": "Request*CumButt*!~uuidTarget~!*-1"
+      },
+      "button_CleanArms": {
+        "content": "Arms",
+        "channel": 4953,
+        "command": "Request*CumArms*!~uuidTarget~!*-1"
+      },
+      "button_CleanLegs": {
+        "content": "Legs",
+        "channel": 4953,
+        "command": "Request*CumLegs*!~uuidTarget~!*-1"
+      },
+      "button_CleanCreampie": {
+        "content": "Creampie",
+        "channel": 4953,
+        "command": "Request*CumCreampie*!~uuidTarget~!*-1"
+      }
+    },
+    "All Areas": {
+      "button_CleanAll": {
+        "content": "Clean All",
+        "channel": 4953,
+        "command": "Request*Clean*!~uuidTarget~!*8"
+      },
+      "button_CleanSome": {
+        "content": "Clean Some",
+        "channel": 4953,
+        "command": "Request*Clean*!~uuidTarget~!*1"
+      },
+      "button_CumSome": {
+        "content": "Cum Some",
+        "channel": 4953,
+        "command": "Request*CumAll*!~uuidTarget~!*1"
+      },
+      "button_CumAll": {
+        "content": "Cum All",
+        "channel": 4953,
+        "command": "Request*CumAll*!~uuidTarget~!*8"
+      }
+    },
+    "Open Dialog": {
+      "button_Others": {
+        "content": "Others",
+        "channel": 4953,
+        "command": "Request*CumDialogOthers",
+        "ownerOnly": true
+      },
+      "button_Owner": {
+        "content": "Owner",
+        "channel": 4953,
+        "command": "Request*CumDialogProxy*!~uuidSource~!"
+      }
+    },
+    "Settings": {
+      "button_Privacy": {
+        "content": "Privacy",
+        "channel": 4953,
+        "command": "Access mode",
+        "ownerOnly": true
+      },
+      "button_Messages": {
+        "content": "Message",
+        "channel": 4953,
+        "command": "Messages",
+        "ownerOnly": true
+      },
+      "button_Particles": {
+        "content": "Particles",
+        "channel": 4953,
+        "command": "Particle FX",
+        "ownerOnly": true
+      },
+      "button_Colors": {
+        "content": "Colors",
+        "channel": 4953,
+        "command": "Color perms.",
+        "ownerOnly": true
+      }
+    },
+    "Toggle Targets": {
+      "button_ToggleFacials": {
+        "content": "Facials",
+        "channel": 4953,
+        "command": "AX1",
+        "ownerOnly": true
+      },
+      "button_ToggleChest": {
+        "content": "Chest",
+        "channel": 4953,
+        "command": "AX2",
+        "ownerOnly": true
+      },
+      "button_ToggleBack": {
+        "content": "Back",
+        "channel": 4953,
+        "command": "AX4",
+        "ownerOnly": true
+      },
+      "button_ToggleGroin": {
+        "content": "Groin",
+        "channel": 4953,
+        "command": "AX3",
+        "ownerOnly": true
+      },
+      "button_ToggleButt": {
+        "content": "Butt",
+        "channel": 4953,
+        "command": "AX5",
+        "ownerOnly": true
+      },
+      "button_ToggleArms": {
+        "content": "Arms",
+        "channel": 4953,
+        "command": "AX6",
+        "ownerOnly": true
+      },
+      "button_ToggleLegs": {
+        "content": "Legs",
+        "channel": 4953,
+        "command": "AX7",
+        "ownerOnly": true
+      }
+    }
+  }
+}

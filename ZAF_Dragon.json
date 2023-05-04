@@ -1,0 +1,266 @@
+{
+  "name": "ZAF/Dragon",
+  "version": "0.1",
+  "categories": {
+    "Effects": {
+      "button_Stop": {
+        "content": "Stop",
+        "channel": 55,
+        "command": "stop"
+      },
+      "button_Hide": {
+        "content": "Hide",
+        "channel": 55,
+        "command": "hidebits,-1"
+      },
+      "button_Alpha": {
+        "content": "Alpha",
+        "channel": 55,
+        "command": "hidetip"
+      },
+      "button_Throb": {
+        "content": "Throb",
+        "channel": 55,
+        "command": "throb,1"
+      },
+      "button_Twitch": {
+        "content": "Twitch",
+        "channel": 55,
+        "command": "twitch,0.17,10"
+      },
+      "button_Condom": {
+        "content": "Condom",
+        "channel": 55,
+        "command": "condom"
+      }
+    },
+    "Particle Effects": {
+      "button_Cum": {
+        "content": "Cum",
+        "channel": 55,
+        "command": "cum"
+      },
+      "button_CumIn": {
+        "content": "Cum In",
+        "channel": 55,
+        "command": "cum"
+      },
+      "toggle_CumEndless": {
+        "content": "Cum Enless",
+        "channel": 55,
+        "command_on": "constant",
+        "command_off": "noconstant"
+      },
+      "toggle_Burst": {
+        "content": "Cum Burst",
+        "channel": 55,
+        "command": "bust,!~toggle~!"
+      },
+      "button_Pee": {
+        "content": "Pee",
+        "channel": 55,
+        "command": "pee"
+      },
+      "button_PeeIn": {
+        "content": "Pee In",
+        "channel": 55,
+        "command": "peein"
+      },
+      "button_Pre": {
+        "content": "Pre",
+        "channel": 55,
+        "command": "pre"
+      },
+      "button_Splattering": {
+        "content": "Splattering",
+        "channel": 55,
+        "command": "splattering"
+      },
+      "button_Wet": {
+        "content": "Wet",
+        "channel": 55,
+        "command": "wet"
+      },
+      "button_Clean": {
+        "content": "Clean",
+        "channel": 55,
+        "command": "clean"
+      }
+    },
+    "States": {
+      "button_State0": {
+        "content": "Sheathed",
+        "channel": 55,
+        "command": "play,0"
+      },
+      "button_State1": {
+        "content": "Poke 1",
+        "channel": 55,
+        "command": "play,1"
+      },
+      "button_State2": {
+        "content": "Poke 2",
+        "channel": 55,
+        "command": "play,2"
+      },
+      "button_State3": {
+        "content": "Poke 3",
+        "channel": 55,
+        "command": "play,3"
+      },
+      "button_State4": {
+        "content": "Poke 4",
+        "channel": 55,
+        "command": "play,4"
+      },
+      "button_State5": {
+        "content": "Poke 5",
+        "channel": 55,
+        "command": "play,5"
+      },
+      "button_State6": {
+        "content": "Poke 6",
+        "channel": 55,
+        "command": "play,6"
+      },
+      "button_State7": {
+        "content": "Poke 7",
+        "channel": 55,
+        "command": "play,7"
+      },
+      "button_State8": {
+        "content": "Poke 8",
+        "channel": 55,
+        "command": "play,8"
+      },
+      "button_State9": {
+        "content": "Poke 9",
+        "channel": 55,
+        "command": "play,9"
+      },
+      "button_State10": {
+        "content": "Poke 10",
+        "channel": 55,
+        "command": "play,10"
+      },
+      "button_State11": {
+        "content": "Erect 1",
+        "channel": 55,
+        "command": "play,11"
+      },
+      "button_State12": {
+        "content": "Erect 2",
+        "channel": 55,
+        "command": "play,12"
+      },
+      "button_State13": {
+        "content": "Erect 3",
+        "channel": 55,
+        "command": "play,13"
+      },
+      "button_State14": {
+        "content": "Erect 4",
+        "channel": 55,
+        "command": "play,14"
+      },
+      "button_State15": {
+        "content": "Erect 5",
+        "channel": 55,
+        "command": "play,15"
+      },
+      "button_State15L": {
+        "content": "Erect L",
+        "channel": 55,
+        "command": "play,15,l"
+      },
+      "button_State15R": {
+        "content": "Erect R",
+        "channel": 55,
+        "command": "play,15,r"
+      },
+      "button_State16": {
+        "content": "Erect 6",
+        "channel": 55,
+        "command": "play,16"
+      },
+      "button_State17": {
+        "content": "Erect 7",
+        "channel": 55,
+        "command": "play,17"
+      },
+      "button_State18": {
+        "content": "Flop",
+        "channel": 55,
+        "command": "play,18"
+      },
+      "button_State18L": {
+        "content": "Flop L",
+        "channel": 55,
+        "command": "play,18,l"
+      },
+      "button_State18R": {
+        "content": "Flop R",
+        "channel": 55,
+        "command": "play,18,r"
+      }
+    },
+    "Tip Tilt | Shaft Tilt | Base Tilt": {
+      "d-pad_Tip": {
+        "channels": [55, null, 55, null, 55],
+        "commands": [
+          "playc,,,+,0.4",
+          null,
+          "playc,,,0,0.4",
+          null,
+          "playc,,,-,0.4"
+        ]
+      },
+      "d-pad_Shaft": {
+        "channels": [55, 55, 55, 55, 55],
+        "commands": [
+          "playc,,+,,0.4",
+          null,
+          "playc,,0,,0.4",
+          null,
+          "playc,,-,,0.4"
+        ]
+      },
+      "d-pad_Base": {
+        "channels": [55, null, 55, null, 55],
+        "commands": [
+          "playc,+,,,0.4",
+          null,
+          "playc,0,,,0.4",
+          null,
+          "playc,-,,,0.4"
+        ]
+      }
+    },
+    "Tilt | Orb Tilt | Orb Lift": {
+      "d-pad_Tilt": {
+        "channels": [55, 55, 55, 55, 55],
+        "commands": [
+          "tilt,10,0",
+          "tilt,0,-10",
+          "tilt,0,0",
+          "tilt,0,10",
+          "tilt,-10,0"
+        ]
+      },
+      "d-pad_Orb": {
+        "channels": [55, 55, 55, 55, 55],
+        "commands": [
+          "tup,1",
+          "tside,-1",
+          "THIS RUNS TWO COMMANDS tside,0 & tup,0",
+          "tside,1",
+          "tup,-1"
+        ]
+      },
+      "d-pad_Lift": {
+        "channels": [55, null, 55, null, 55],
+        "commands": ["tdrop,-1", null, "tdrop,0", null, "tdrop,1"]
+      }
+    }
+  }
+}

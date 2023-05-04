@@ -1,0 +1,209 @@
+{
+    "name":"ZAF/Feline Canine",
+    "version":"0.2",
+    "categories":{
+        "Effects":{
+            "button_1":{
+                "content":"Cum",
+                "channel":55,
+                "command":"cum"
+            },
+            "button_2":{
+                "content":"Cumin",
+                "channel":55,
+                "command":"cumin"
+            },
+            "button_3":{
+                "content":"Pee",
+                "channel":55,
+                "command":"pee"
+            },
+            "button_4":{
+                "content":"Peein",
+                "channel":55,
+                "command":"peein"
+            },
+            "button_5":{
+                "content":"Pre cum",
+                "channel":55,
+                "command":"pre"
+            },
+            "button_6":{
+                "content":"Splattering",
+                "channel":55,
+                "command":"splattering"
+            },
+            "button_7":{
+                "content":"Clean",
+                "channel":55,
+                "command":"clean"
+            },
+            "button_8":{
+                "content":"Stop",
+                "channel":55,
+                "command":"stop"
+            },
+            "button_9":{
+                "content":"Wetness",
+                "channel":55,
+                "command":"wet"
+            },
+            "button_10":{
+                "content":"Throb",
+                "channel":55,
+                "command":"throb,1"
+            },
+            "button_11":{
+                "content":"Twitch",
+                "channel":55,
+                "command":"twitch,0.17,10"
+            },
+            "button_12":{
+                "content":"Rubbing",
+                "channel":55,
+                "command":"rub,3"
+            },
+            "button_13":{
+                "content":"HideBits",
+                "channel":55,
+                "command":"hidebits"
+            },
+            "button_14":{
+                "content":"HideTip",
+                "channel":55,
+                "command":"hidetip"
+            },
+            "button_15":{
+                "content":"Condom",
+                "channel":55,
+                "command":"condom"
+            },
+            "button_16":{
+                "content":"Alpha",
+                "channel":55,
+                "command":"alpha"
+            }
+        },
+        "States":{
+            "button_1":{
+                "content":"State 0",
+                "channel":55,
+                "command":"play,0"
+            },
+            "button_2":{
+                "content":"State 1",
+                "channel":55,
+                "command":"play,1"
+            },
+            "button_3":{
+                "content":"State 2",
+                "channel":55,
+                "command":"play,2"
+            },
+            "button_4":{
+                "content":"State 3",
+                "channel":55,
+                "command":"play,3"
+            },
+            "button_5":{
+                "content":"State 4",
+                "channel":55,
+                "command":"play,4"
+            },
+            "button_6":{
+                "content":"State 5",
+                "channel":55,
+                "command":"play,5"
+            },
+            "button_7":{
+                "content":"State 6",
+                "channel":55,
+                "command":"play,6"
+            },
+            "button_8":{
+                "content":"State 7",
+                "channel":55,
+                "command":"play,7"
+            },
+            "button_9":{
+                "content":"State 8",
+                "channel":55,
+                "command":"play,8"
+            },
+            "button_10":{
+                "content":"State 9",
+                "channel":55,
+                "command":"play,9"
+            },
+            "button_11":{
+                "content":"State 10",
+                "channel":55,
+                "command":"play,10"
+            },
+            "button_12":{
+                "content":"State 11",
+                "channel":55,
+                "command":"play,11"
+            },
+            "button_13":{
+                "content":"State 12",
+                "channel":55,
+                "command":"play,12"
+            },
+            "button_14":{
+                "content":"State 13",
+                "channel":55,
+                "command":"play,13"
+            },
+            "button_15":{
+                "content":"State 14",
+                "channel":55,
+                "command":"play,14"
+            },
+            "button_16":{
+                "content":"State 15 L",
+                "channel":55,
+                "command":"play,15,l"
+            },
+            "button_17":{
+                "content":"State 15 R",
+                "channel":55,
+                "command":"play,15,r"
+            },
+            "button_18":{
+                "content":"State 16",
+                "channel":55,
+                "command":"play,16"
+            },
+            "button_19":{
+                "content":"State 17",
+                "channel":55,
+                "command":"play,17"
+            },
+            "button_20":{
+                "content":"State 18 L",
+                "channel":55,
+                "command":"play,18,l"
+            },
+            "button_21":{
+                "content":"State 18 R",
+                "channel":55,
+                "command":"play,18,r"
+            }
+        },
+        "Adjust":{
+            "d-pad_1":{
+                "channels":[55, 55, 55, 55, 55],
+                "commands":["tiltUp", "tiltLeft", "tiltReset", "tiltRight", "tiltDown"]
+            },
+            "d-pad_2":{
+                "channels":[55, null, 55, null, 55],
+                "commands":["orbLiftUp", null, "orbLiftReset", null, "orbLiftDown"]
+            },
+            "d-pad_3":{
+                "channels":[55, 55, 55, 55, 55],
+                "commands":["orbTiltUp", "orbTiltLeft", "orbTiltReset", "orbTiltRight", "orbTiltDown"]
+            }  
+        }
+    }
+}

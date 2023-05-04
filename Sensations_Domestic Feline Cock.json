@@ -1,0 +1,18 @@
+{
+	"name": "Sensations/Domestic Feline Cock",
+	"version": "0.2",
+	"categories": {
+		"States": {
+			"button_0": {
+				"content": "Hard",
+				"channel": -51473,
+				"command": "Hard (+)"
+			},
+            "button_1": {
+				"content": "Soft",
+				"channel": -51473,
+				"command": "Soft (-)"
+			}
+		}
+	}
+}

@@ -1,0 +1,249 @@
+{
+  "name": "Sensations/Boobs",
+  "version": "0.2",
+  "categories": {
+    "States": {
+      "button_Hide": {
+        "content": "Hide",
+        "channel": -80085,
+        "command": "boobs hide"
+      },
+      "button_Show": {
+        "content": "Show",
+        "channel": -80085,
+        "command": "boobs show"
+      },
+      "button_Normal": {
+        "content": "Normal",
+        "channel": -80085,
+        "command": "boobs 0"
+      },
+      "button_Implants": {
+        "content": "Implant",
+        "channel": -80085,
+        "command": "boobs 1"
+      },
+      "button_Buckle": {
+        "content": "Buckle",
+        "channel": -80085,
+        "command": "boobs 2"
+      },
+      "button_Press": {
+        "content": "Press",
+        "channel": -80085,
+        "command": "boobs 3"
+      }
+    },
+    "Nipples": {
+      "button_Smol1": {
+        "content": "Smol 1",
+        "channel": -80085,
+        "command": "nipple smol1"
+      },
+      "button_Smol2": {
+        "content": "Smol 2",
+        "channel": -80085,
+        "command": "nipple smol2"
+      },
+      "button_Smol3": {
+        "content": "Smol 3",
+        "channel": -80085,
+        "command": "nipple smol3"
+      },
+      "button_Smol4": {
+        "content": "Smol 4",
+        "channel": -80085,
+        "command": "nipple smol4"
+      },
+      "button_Huge1": {
+        "content": "Huge 1",
+        "channel": -80085,
+        "command": "nipple huge1"
+      },
+      "button_Huge2": {
+        "content": "Huge 2",
+        "channel": -80085,
+        "command": "nipple huge2"
+      },
+      "button_Huge3": {
+        "content": "Huge 3",
+        "channel": -80085,
+        "command": "nipple huge3"
+      },
+      "button_Huge4": {
+        "content": "Huge 4",
+        "channel": -80085,
+        "command": "nipple huge4"
+      },
+      "button_Puffy": {
+        "content": "Puffy",
+        "channel": -80085,
+        "command": "nipple puffy"
+      },
+      "button_Invrt1": {
+        "content": "Invert 1",
+        "channel": -80085,
+        "command": "nipple invrt1"
+      },
+      "button_Invrt2": {
+        "content": "Invert 2",
+        "channel": -80085,
+        "command": "nipple invrt2"
+      },
+      "button_Hole0": {
+        "content": "Hole 0",
+        "channel": -80085,
+        "command": "nipple hole0"
+      },
+      "button_Hole1": {
+        "content": "Hole 1",
+        "channel": -80085,
+        "command": "nipple hole1"
+      },
+      "button_Cock0": {
+        "content": "Cock 0",
+        "channel": -80085,
+        "command": "nipple cock0"
+      },
+      "button_Cock1": {
+        "content": "Cock 1",
+        "channel": -80085,
+        "command": "nipple cock1"
+      }
+    },
+    "Interact": {
+      "toggle_PeeIn": {
+        "content": "Pee On",
+        "channel": -80085,
+        "command": "pee on !~toggle~!"
+      },
+      "slider_CumOn": {
+        "content": "Cum On",
+        "channel": -80085,
+        "command": "cum on !~slider~!",
+        "min": 0,
+        "max": 3,
+        "sliderType": "integer"
+      },
+      "slider_Kiss": {
+        "content": "Kiss",
+        "channel": -80085,
+        "command": "kiss !~slider~!",
+        "min": 0,
+        "max": 6,
+        "sliderType": "integer"
+      },
+      "slider_Hickey": {
+        "content": "Hickey",
+        "channel": -80085,
+        "command": "hickey !~slider~!",
+        "min": 0,
+        "max": 6,
+        "sliderType": "integer"
+      },
+      "slider_Spank": {
+        "content": "Spank",
+        "channel": -80085,
+        "command": "spank !~slider~!",
+        "min": 0,
+        "max": 6,
+        "sliderType": "integer"
+      },
+      "slider_Whip": {
+        "content": "Whip",
+        "channel": -80085,
+        "command": "whip !~slider~!",
+        "min": 0,
+        "max": 6,
+        "sliderType": "integer"
+      },
+      "slider_Vampire": {
+        "content": "Vampire",
+        "channel": -80085,
+        "command": "vampire !~slider~!",
+        "min": 0,
+        "max": 6,
+        "sliderType": "integer"
+      },
+      "slider_Pins": {
+        "content": "Pins",
+        "channel": -80085,
+        "command": "pins !~slider~!",
+        "min": 0,
+        "max": 6,
+        "sliderType": "integer"
+      }
+    },
+    "Action": {
+      "toggle_Milk": {
+        "content": "Milk",
+        "channel": -80085,
+        "command": "milk !~toggle~!"
+      },
+      "toggle_Spray": {
+        "content": "Spray",
+        "channel": -80085,
+        "command": "spray !~toggle~!"
+      },
+      "slider_Drool": {
+        "content": "Drool",
+        "channel": -80085,
+        "command": "drool !~slider~!",
+        "min": 0,
+        "max": 5,
+        "sliderType": "integer"
+      },
+      "slider_Stretch": {
+        "content": "Stretch",
+        "channel": -80085,
+        "command": "stretch !~slider~!",
+        "min": 0,
+        "max": 3,
+        "sliderType": "integer"
+      },
+      "toggle_ThrustL": {
+        "content": "Thrust L",
+        "channel": -80085,
+        "command": "thrust l !~toggle~!"
+      },
+      "toggle_ThrustR": {
+        "content": "Thrust R",
+        "channel": -80085,
+        "command": "thrust r !~toggle~!"
+      },
+      "toggle_Chain": {
+        "content": "Chain",
+        "channel": -80085,
+        "command": "attachchain !~toggle~!"
+      }
+    },
+    "Pump": {
+      "toggle_MilkPump": {
+        "content": "Pump",
+        "channel": -80085,
+        "command": "pump !~toggle~!"
+      },
+      "toggle_DrawHolster": {
+        "content": "Draw / Holster",
+        "channel": -80085,
+        "command_on": "draw",
+        "command_off": "holster"
+      },
+      "toggle_DamageBullets": {
+        "content": "Damage",
+        "channel": -80085,
+        "command": "damage !~toggle~!"
+      },
+      "toggle_InfiniteAmmo": {
+        "content": "Infinite",
+        "channel": -80085,
+        "command": "ammo infinite !~toggle~!"
+      },
+      "toggle_TriggerSwitch": {
+        "content": "Trigger",
+        "channel": -80085,
+        "command": "trigger switch !~toggle~!"
+      }
+    }
+  }
+}

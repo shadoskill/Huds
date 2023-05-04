@@ -1,0 +1,287 @@
+{
+  "name": "PsiCorp/Penis",
+  "version": "0.1",
+  "categories": {
+    "States": {
+      "button_Hide": {
+        "content": "Hide",
+        "channel": 5,
+        "command": "hide"
+      },
+      "button_Soft": {
+        "content": "Soft",
+        "channel": 5,
+        "command": "soft"
+      },
+      "button_Tip": {
+        "content": "Tip",
+        "channel": 5,
+        "command": "tip"
+      },
+      "button_Poke": {
+        "content": "Poke",
+        "channel": 5,
+        "command": "poke"
+      },
+      "button_Limp": {
+        "content": "Limp",
+        "channel": 5,
+        "command": "limp"
+      },
+      "button_Droop": {
+        "content": "Droop",
+        "channel": 5,
+        "command": "droop"
+      },
+      "button_Hard": {
+        "content": "Hard",
+        "channel": 5,
+        "command": "hard"
+      },
+      "button_Raised": {
+        "content": "Raised",
+        "channel": 5,
+        "command": "raised"
+      },
+      "button_RaisedHigh": {
+        "content": "Raised High",
+        "channel": 5,
+        "command": "raised_high"
+      },
+      "button_Right": {
+        "content": "Right",
+        "channel": 5,
+        "command": "right"
+      },
+      "button_OnBelly": {
+        "content": "On Belly",
+        "channel": 5,
+        "command": "onbelly"
+      },
+      "button_Left": {
+        "content": "Left",
+        "channel": 5,
+        "command": "left"
+      }
+    },
+    "Controls": {
+      "d-pad_Tilt": {
+        "channels": [5, 5, 5, 5, 5],
+        "commands": ["tiltv 5", "tilth -5", "tilt", "tilth 5", "tiltv -5"]
+      },
+      "button_ThrobEggs": {
+        "content": "Throb/Eggs",
+        "channel": 5,
+        "command": "throb"
+      },
+      "button_Short": {
+        "content": "Short",
+        "channel": 5,
+        "command": "short"
+      },
+      "button_Condom": {
+        "content": "Condom",
+        "channel": 5,
+        "command": "condom"
+      },
+      "button_Flare": {
+        "content": "Flare",
+        "channel": 5,
+        "command": "flare"
+      },
+      "button_KnotSmall": {
+        "content": "Knot Small",
+        "channel": 5,
+        "command": "knot small"
+      },
+      "button_KnotMedium": {
+        "content": "Knot Medium",
+        "channel": 5,
+        "command": "knot medium"
+      },
+      "button_KnotLarge": {
+        "content": "Knot Large",
+        "channel": 5,
+        "command": "knot large"
+      }
+    },
+    "Animations": {
+      "button_Stop": {
+        "content": "Stop",
+        "channel": 5,
+        "command": "stop"
+      },
+      "button_StrokeStop": {
+        "content": "Stroke Stop",
+        "channel": 5,
+        "command": "strokestop"
+      },
+      "button_BallSway": {
+        "content": "Balls Sway",
+        "channel": 5,
+        "command": "ballsway"
+      },
+      "button_BallSwayFast": {
+        "content": "Balls Sway fast",
+        "channel": 5,
+        "command": "ballswayfast"
+      },
+      "button_Bounce": {
+        "content": "Bounce",
+        "channel": 5,
+        "command": "bounce"
+      },
+      "button_BounceFast": {
+        "content": "Bounce Fast",
+        "channel": 5,
+        "command": "bouncefast"
+      },
+      "button_StrokeA": {
+        "content": "Stroke A",
+        "channel": 5,
+        "command": "strokehip"
+      },
+      "button_StrokeB": {
+        "content": "Stroke B",
+        "channel": 5,
+        "command": "stroke"
+      }
+    },
+    "Balls Size": {
+      "button_BallsOff": {
+        "content": "Balls Off",
+        "channel": 5,
+        "command": "balls off"
+      },
+      "button_BallsSmall": {
+        "content": "Balls Small",
+        "channel": 5,
+        "command": "balls small"
+      },
+      "button_BallsMedium": {
+        "content": "Balls Medium",
+        "channel": 5,
+        "command": "balls medium"
+      },
+      "button_BallsLarge": {
+        "content": "Balls Large",
+        "channel": 5,
+        "command": "balls large"
+      },
+      "button_SwayOff": {
+        "content": "",
+        "channel": 5,
+        "command": ""
+      }
+    },
+    "Balls Tilt": {
+      "button_BallsTilt-30": {
+        "content": "-30",
+        "channel": 5,
+        "command": "ballangle -30"
+      },
+      "button_BallsTilt-20": {
+        "content": "-20",
+        "channel": 5,
+        "command": "ballangle -20"
+      },
+      "button_BallsTilt-10": {
+        "content": "-10",
+        "channel": 5,
+        "command": "ballangle -10"
+      },
+      "button_BallsTilt0": {
+        "content": "0",
+        "channel": 5,
+        "command": "ballangle 0"
+      },
+      "button_BallsTilt10": {
+        "content": "10",
+        "channel": 5,
+        "command": "ballangle 10"
+      },
+      "button_BallsTilt20": {
+        "content": "20",
+        "channel": 5,
+        "command": "ballangle 20"
+      },
+      "button_BallsTilt30": {
+        "content": "30",
+        "channel": 5,
+        "command": "ballangle 30"
+      }
+    },
+    "Mess": {
+      "button_MessOff": {
+        "content": "Off",
+        "channel": 5,
+        "command": "mess off"
+      },
+      "button_MessLow": {
+        "content": "Low",
+        "channel": 5,
+        "command": "mess low"
+      },
+      "button_MessMedium": {
+        "content": "Medium",
+        "channel": 5,
+        "command": "mess medium"
+      },
+      "button_MessHigh": {
+        "content": "High",
+        "channel": 5,
+        "command": "mess high"
+      },
+      "button_3dCum": {
+        "content": "3d Cum",
+        "channel": 5,
+        "command": "3dcum"
+      },
+      "button_SheathCum": {
+        "content": "Sheath",
+        "channel": 5,
+        "command": "sheathmess"
+      }
+    },
+    "Particle Effects": {
+      "slider_ParticleStrength": {
+        "content": "Particle Strength",
+        "channel": 5,
+        "min": 0,
+        "max": 2,
+        "sliderType": "float",
+        "command": "intensity !~slider~!"
+      },
+      "button_EffectsOff": {
+        "content": "Off",
+        "channel": 5,
+        "command": "effects off"
+      },
+      "button_Cum": {
+        "content": "Cum",
+        "channel": 5,
+        "command": "cum"
+      },
+      "button_CumInside": {
+        "content": "Cum Inside",
+        "channel": 5,
+        "command": "backcum"
+      },
+      "button_Pre": {
+        "content": "Pre",
+        "channel": 5,
+        "command": "pre"
+      },
+      "button_Pee": {
+        "content": "Pee",
+        "channel": 5,
+        "command": "pee"
+      },
+      "button_PeeInside": {
+        "content": "Pee Inside",
+        "channel": 5,
+        "command": "backpee"
+      }
+    }
+  }
+}

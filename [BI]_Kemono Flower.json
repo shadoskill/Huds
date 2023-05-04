@@ -1,0 +1,75 @@
+{
+	"name": "[BI]/Kemono Flower",
+	"version": "0.2",
+	"categories": {
+		"States": {
+			"button_0": {
+				"content": "0",
+				"channel": -34525475,
+				"command": "vag:0"
+			},
+            "button_1": {
+				"content": "1",
+				"channel": -34525475,
+				"command": "vag:1"
+			},
+            "button_2": {
+				"content": "2",
+				"channel": -34525475,
+				"command": "vag:2"
+			},
+            "button_3": {
+				"content": "3",
+				"channel": -34525475,
+				"command": "vag:3"
+			},
+            "button_4": {
+				"content": "4",
+				"channel": -34525475,
+				"command": "vag:4"
+			},
+            "button_5": {
+				"content": "5",
+				"channel": -34525475,
+				"command": "vag:5"
+			}
+		},
+        "Effects": {
+            "button_0": {
+				"content": "Wet On",
+				"channel": -34525475,
+				"command": "wet:1"
+			},
+            "button_1": {
+				"content": "Wet Off",
+				"channel": -34525475,
+				"command": "wet:0"
+			},
+            "button_2": {
+				"content": "Drip On",
+				"channel": -34525475,
+				"command": "drip:1"
+			},
+            "button_3": {
+				"content": "Drip Off",
+				"channel": -34525475,
+				"command": "drip:0"
+			},
+            "button_4": {
+				"content": "Stop",
+				"channel": -34525475,
+				"command": "fx:0:0"
+			},
+            "button_5": {
+				"content": "Cum",
+				"channel": -34525475,
+				"command": "fx:1:0"
+			},
+            "button_6": {
+				"content": "Pee",
+				"channel": -34525475,
+				"command": "fx:0:1"
+			}
+		}
+	}
+}

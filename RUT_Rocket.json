@@ -1,0 +1,65 @@
+{
+	"name": "RUT/Rocket",
+	"version": "0.2",
+	"categories": {
+		"States": {
+			"button_0": {
+				"content": "Sheathed",
+				"channel": 12,
+				"command": "state Sheathed"
+			},
+            "button_1": {
+				"content": "Peeking",
+				"channel": 12,
+				"command": "state Peeking"
+			},
+            "button_2": {
+				"content": "Floppy",
+				"channel": 12,
+				"command": "state Floppy"
+			},
+            "button_3": {
+				"content": "Hard",
+				"channel": 12,
+				"command": "state Hard"
+			},
+            "button_4": {
+				"content": "Belly",
+				"channel": 12,
+				"command": "state Belly"
+			},
+			"button_5": {
+				"content": "Show",
+				"channel": 12,
+				"command": "show"
+			},
+			"button_6": {
+				"content": "Hide",
+				"channel": 12,
+				"command": "hide"
+			}
+		},
+        "Effects":{
+            "button_0": {
+				"content": "Cum On",
+				"channel": 12,
+				"command": "cum on"
+			},
+            "button_1": {
+				"content": "Cum Off",
+				"channel": 12,
+				"command": "cum off"
+			},
+			"button_2": {
+				"content": "Alpha On",
+				"channel": 12,
+				"command": "alpha on"
+			},
+            "button_3": {
+				"content": "Alpha Off",
+				"channel": 12,
+				"command": "alpha off"
+			}
+        }
+	}
+}

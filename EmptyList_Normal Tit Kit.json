@@ -1,0 +1,64 @@
+{
+    "name":"[EmptyList]/Normal Tit Kit",
+    "version":"0.2",
+    "categories":{
+        "Nipples":{
+            "button_1":{
+                "content":"Nipple Adult",
+                "length":2,
+                "channel":10,
+                "command":"{\"nippleType\":\"adult\",\"owner\":\"!~uuidTarget~!\",\"product\":\"ntk\",\"side\":\"3\"}"
+            },
+            "button_2":{
+                "content":"Nipple PG",
+                "length":2,
+                "channel":10,
+                "command":"{\"nippleType\":\"pg\",\"owner\":\"!~uuidTarget~!\",\"product\":\"ntk\",\"side\":\"3\"}"
+            },
+            "button_3":{
+                "content":"HD Nipples On",
+                "length":2,
+                "channel":10,
+                "command":"{\"nippleOverlay\":\"1\",\"owner\":\"!~uuidTarget~!\",\"product\":\"ntk\",\"side\":\"3\"}"
+            },
+            "button_4":{
+                "content":"HD Nipples Off",
+                "length":2,
+                "channel":10,
+                "command":"{\"nippleOverlay\":\"0\",\"owner\":\"!~uuidTarget~!\",\"product\":\"ntk\",\"side\":\"3\"}"
+            }
+        },
+        "Effects":{
+            "button_1":{
+                "content":"Drip On",
+                "channel":10,
+                "command":"{\"drip\":\"1\",\"owner\":\"!~uuidTarget~!\",\"product\":\"ntk\",\"side\":\"3\"}"
+            },
+            "button_2":{
+                "content":"Drip Off",
+                "channel":10,
+                "command":"{\"drip\":\"0\",\"owner\":\"!~uuidTarget~!\",\"product\":\"ntk\",\"side\":\"3\"}"
+            },
+            "button_3":{
+                "content":"Slap On",
+                "channel":10,
+                "command":"{\"slapToggle\":\"1\",\"owner\":\"!~uuidTarget~!\",\"product\":\"ntk\",\"side\":\"3\"}"
+            },
+            "button_4":{
+                "content":"Slap Off",
+                "channel":10,
+                "command":"{\"slapToggle\":\"0\",\"owner\":\"!~uuidTarget~!\",\"product\":\"ntk\",\"side\":\"3\"}"
+            },
+            "button_5":{
+                "content":"Cum On",
+                "channel":10,
+                "command":"{\"cum\":\"1\",\"owner\":\"!~uuidTarget~!\",\"product\":\"ntk\",\"side\":\"3\"}"
+            },
+            "button_6":{
+                "content":"Cum Off",
+                "channel":10,
+                "command":"{\"cum\":\"0\",\"owner\":\"!~uuidTarget~!\",\"product\":\"ntk\",\"side\":\"3\"}"
+            }
+        }
+    }
+}

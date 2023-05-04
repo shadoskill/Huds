@@ -1,0 +1,135 @@
+{
+  "name": "Caeil’s/Project Arousal",
+  "version": "0.2",
+  "categories": {
+    "Arousal": {
+      "button_ArousalLevel1": {
+        "content": "PA_Level_1.svg",
+        "channel": -237593,
+        "command": "!~uuidTarget~!|setArousal1"
+      },
+      "button_ArousalLevel2": {
+        "content": "PA_Level_2.svg",
+        "channel": -237593,
+        "command": "!~uuidTarget~!|setArousal2"
+      },
+      "button_ArousalLevel3": {
+        "content": "PA_Level_3.svg",
+        "channel": -237593,
+        "command": "!~uuidTarget~!|setArousal3"
+      },
+      "button_ArousalVolDown": {
+        "content": "[[icon_volumeDown]]",
+        "channel": 6400,
+        "command": "ArousalBreatheVolumeDecrease"
+      },
+      "button_ArousalVolUp": {
+        "content": "[[icon_volumeUp]]",
+        "channel": 6400,
+        "command": "ArousalBreatheVolumeIncrease"
+      }
+    },
+    "Moan": {
+      "button_MoanLevel1": {
+        "content": "PA_Level_1.svg",
+        "channel": -6349633,
+        "command": "arousalForceMoan!~uuidTarget~!|1"
+      },
+      "button_MoanLevel2": {
+        "content": "PA_Level_2.svg",
+        "channel": -6349633,
+        "command": "arousalForceMoan!~uuidTarget~!|2"
+      },
+      "button_MoanLevel3": {
+        "content": "PA_Level_3.svg",
+        "channel": -6349633,
+        "command": "arousalForceMoan!~uuidTarget~!|3"
+      },
+      "button_MoanVolDown": {
+        "content": "[[icon_volumeDown]]",
+        "channel": 6400,
+        "command": "ArousalMoanVolumeDecrease"
+      },
+      "button_MoanVolUp": {
+        "content": "[[icon_volumeUp]]",
+        "channel": 6400,
+        "command": "ArousalMoanVolumeIncrease"
+      }
+    },
+    "Climax": {
+      "button_ClimaxStandingOrgasmForward": {
+        "content": "PA_Orgasm_Standing.svg",
+        "channel": -6349633,
+        "command": "arousalForceOrgasm!~uuidTarget~!|1"
+      },
+      "button_ClimaxFloorSuperOrgasmOnBack": {
+        "content": "PA_Orgasm_OnBack.svg",
+        "channel": -6349633,
+        "command": "arousalForceOrgasm!~uuidTarget~!|2"
+      },
+      "button_ClimaxFloorSuperOrgasmForward": {
+        "content": "PA_Orgasm_OnKnees.svg",
+        "channel": -6349633,
+        "command": "arousalForceOrgasm!~uuidTarget~!|3"
+      },
+      "button_ClimaxVolDown": {
+        "content": "[[icon_volumeDown]]",
+        "channel": 6400,
+        "command": "ArousalOrgasmVolumeDecrease"
+      },
+      "button_ClimaxVolUp": {
+        "content": "[[icon_volumeUp]]",
+        "channel": 6400,
+        "command": "ArousalOrgasmVolumeIncrease"
+      }
+    },
+    "Super Climax": {
+      "button_SClimaxStandingSuperOrgasmForward": {
+        "content": "PA_Orgasm_Standing.svg",
+        "channel": -6349633,
+        "command": "arousalForceOrgasm!~uuidTarget~!|1|super"
+      },
+      "button_SClimaxFloorSuperOrgasmOnBack": {
+        "content": "PA_Orgasm_OnBack.svg",
+        "channel": -6349633,
+        "command": "arousalForceOrgasm!~uuidTarget~!|2|super"
+      },
+      "button_SClimaxFloorSuperOrgasmForward": {
+        "content": "PA_Orgasm_OnKnees.svg",
+        "channel": -6349633,
+        "command": "arousalForceOrgasm!~uuidTarget~!|3|super"
+      }
+    },
+    "Other": {
+      "button_GetUp": {
+        "content": "Get Up",
+        "channel": 6400,
+        "command": "arousalGetUp"
+      },
+      "toggle_BedMode": {
+        "content": "In-Bed Mode",
+        "channel": -237593,
+        "command_on": "!~uuidTarget~!automodeon",
+        "command_off": "!~uuidTarget~!automodeoff"
+      },
+      "toggle_GameMode": {
+        "content": "Game Mode",
+        "channel": -237593,
+        "command_on": "gamemodeon",
+        "command_off": "gamemodeoff"
+      },
+      "toggle_Freeze": {
+        "content": "Freeze Arousal",
+        "channel": -6349633,
+        "command_on": "freezeArousal!~uuidTarget~!",
+        "command_off": "unfreezeArousal!~uuidTarget~!"
+      },
+      "toggle_ArousalRelay": {
+        "content": "Arousal Relay",
+        "channel": -237593,
+        "command_on": "ArousalRelayOn",
+        "command_off": "ArousalRelayOff"
+      }
+    }
+  }
+}

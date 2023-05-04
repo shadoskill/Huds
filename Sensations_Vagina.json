@@ -1,0 +1,105 @@
+{
+  "name": "Sensations/Vagina",
+  "version": "0.4",
+  "categories": {
+    "Pose": {
+      "button_Vagina0": {
+        "content": "#0",
+        "channel": -13487,
+        "command": "vagina 0"
+      },
+      "button_Vagina1": {
+        "content": "#1",
+        "channel": -13487,
+        "command": "vagina 1"
+      },
+      "button_Vagina2": {
+        "content": "#2",
+        "channel": -13487,
+        "command": "vagina 2"
+      },
+      "button_Vagina3": {
+        "content": "#3",
+        "channel": -13487,
+        "command": "vagina 3"
+      },
+      "button_Vagina4": {
+        "content": "#4",
+        "channel": -13487,
+        "command": "vagina 4"
+      },
+      "button_Vagina5": {
+        "content": "#5",
+        "channel": -13487,
+        "command": "vagina 5"
+      },
+      "button_Vagina6": {
+        "content": "#6",
+        "channel": -13487,
+        "command": "vagina 6"
+      }
+    },
+    "Clit Hood": {
+      "botton_ClitHood1": {
+        "content": "#1",
+        "channel": -13487,
+        "command": "clit 1"
+      },
+      "botton_ClitHood2": {
+        "content": "#2",
+        "channel": -13487,
+        "command": "clit 2"
+      },
+      "botton_ClitHood3": {
+        "content": "#3",
+        "channel": -13487,
+        "command": "clit 3"
+      },
+      "botton_ClitHood4": {
+        "content": "#4",
+        "channel": -13487,
+        "command": "clit 4"
+      }
+    },
+    "Action": {
+      "button_Cum":{
+        "content":"Cum",
+        "channel":-13487,
+        "command":"cum"
+      },
+      "button_Squirt":{
+        "content":"Squirt",
+        "channel":-13487,
+        "command":"squirt"
+      },
+      "button_Pee":{
+        "content":"Pee",
+        "channel":-13487,
+        "command":"pee"
+      },
+      "button_Bleed":{
+        "content":"Bleed",
+        "channel":-13487,
+        "command":"bleed"
+      },
+      "toggle_Wet":{
+        "content": "Wet",
+        "channel":-13487,
+        "command_on":"wet on",
+        "command_off":"wet off"
+      },
+      "toggle_CumDrip":{
+        "content": "Drip",
+        "channel":-13487,
+        "command_on":"drip on",
+        "command_off":"drip off"
+      },
+      "toggle_Creampie":{
+        "content": "Creampie",
+        "channel":-13487,
+        "command_on":"creampie on",
+        "command_off":"creampie off"
+      }
+    }
+  }
+}

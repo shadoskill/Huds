@@ -1,0 +1,154 @@
+{
+  "name": "PsiCorp/Vagina",
+  "version": "0.1",
+  "categories": {
+    "States": {
+      "button_VagHide": {
+        "content": "Hide",
+        "channel": 5,
+        "command": "vag hide"
+      },
+      "button_VagClosed": {
+        "content": "Closed",
+        "channel": 5,
+        "command": "vag closed"
+      },
+      "button_VagExposed": {
+        "content": "Exposed",
+        "channel": 5,
+        "command": "vag exposed"
+      },
+      "button_VagOpen": {
+        "content": "Open",
+        "channel": 5,
+        "command": "vag open"
+      },
+      "button_VagGape": {
+        "content": "Gape",
+        "channel": 5,
+        "command": "vag gape"
+      }
+    },
+    "Controls": {
+      "button_VagTwitch": {
+        "content": "Twitch",
+        "channel": 5,
+        "command": "vag twitch"
+      },
+      "button_VagLabia": {
+        "content": "Labia",
+        "channel": 5,
+        "command": "vag labia"
+      },
+      "button_VagOvi": {
+        "content": "Lay Egg",
+        "channel": 5,
+        "command": "vag ovi"
+      },
+      "button_VagOvirez": {
+        "content": "Egg Rezzing",
+        "channel": 5,
+        "command": "vag ovirez"
+      }
+    },
+    "Toys": {
+      "button_VagToyStop": {
+        "content": "Stop",
+        "channel": 5,
+        "command": "vag toy stop"
+      },
+      "button_VagCanineShallow": {
+        "content": "Canine Shallow",
+        "channel": 5,
+        "command": "vag toy canine shallow"
+      },
+      "button_VagCanineDeep": {
+        "content": "Canine Deep",
+        "channel": 5,
+        "command": "vag toy canine deep"
+      },
+      "button_VagHumanShallow": {
+        "content": "Human Shallow",
+        "channel": 5,
+        "command": "vag toy human shallow"
+      },
+      "button_VagHumanDeep": {
+        "content": "Human Deep",
+        "channel": 5,
+        "command": "vag toy human deep"
+      }
+    },
+    "Mess": {
+      "button_VagMessOff": {
+        "content": "Off",
+        "channel": 5,
+        "command": "vag mess off"
+      },
+      "button_VagMessWet": {
+        "content": "Wet",
+        "channel": 5,
+        "command": "vag mess wet"
+      },
+      "button_VagMessSmall": {
+        "content": "Small",
+        "channel": 5,
+        "command": "vag mess small"
+      },
+      "button_VagMessThick": {
+        "content": "Thick",
+        "channel": 5,
+        "command": "vag mess thick"
+      },
+      "button_VagMessBig": {
+        "content": "Big",
+        "channel": 5,
+        "command": "vag mess big"
+      },
+      "button_Vag3dCum": {
+        "content": "3d Cum",
+        "channel": 5,
+        "command": "vag 3d cum"
+      }
+    },
+    "Particle Effects": {
+      "slider_VagParticleStrength": {
+        "content": "Particle Strength",
+        "channel": 5,
+        "min": 0,
+        "max": 2,
+        "sliderType": "float",
+        "command": "vag intensity !~slider~!"
+      },
+      "button_VagEffectsOff": {
+        "content": "Off",
+        "channel": 5,
+        "command": "vag effects off"
+      },
+      "button_VagCum": {
+        "content": "Cum",
+        "channel": 5,
+        "command": "vag femcum"
+      },
+      "button_VagCumDrip": {
+        "content": "Cum Drip",
+        "channel": 5,
+        "command": "vag dcum"
+      },
+      "button_VagPre": {
+        "content": "Pre",
+        "channel": 5,
+        "command": "vag fempre"
+      },
+      "button_VagPee": {
+        "content": "Pee",
+        "channel": 5,
+        "command": "vag pee"
+      },
+      "button_VagPeeDrip": {
+        "content": "Pee Drip",
+        "channel": 5,
+        "command": "vag dpee"
+      }
+    }
+  }
+}

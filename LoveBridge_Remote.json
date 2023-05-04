@@ -1,0 +1,36 @@
+{
+  "name": "LoveBridge/Remote",
+  "version": "0.1",
+  "categories": {
+    "Patterns / Vibration": {
+      "button_Custom": {
+        "content": "Custom.svg",
+        "channel": -4257001,
+        "command": "!~uuidTarget~!|custom|!~uuidSource~!"
+      },
+      "button_Pulse": {
+        "content": "Pulse.svg",
+        "channel": -4257001,
+        "command": "!~uuidTarget~!|pattern|1"
+      },
+      "button_Wave": {
+        "content": "Wave.svg",
+        "channel": -4257001,
+        "command": "!~uuidTarget~!|pattern|2"
+      },
+      "button_Fireworks": {
+        "content": "Fireworks.svg",
+        "channel": -4257001,
+        "command": "!~uuidTarget~!|pattern|3"
+      },
+      "slider_Vibration": {
+        "content": "Level",
+        "channel": -4257001,
+        "command": "!~uuidTarget~!|vibrate|!~slider~!",
+        "min": 0,
+        "max": 20,
+        "sliderType": "integer"
+      }
+    }
+  }
+}

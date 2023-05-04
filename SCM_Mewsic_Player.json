@@ -1,0 +1,64 @@
+{
+  "name": "SCM/Mewsic Player",
+  "version": "0.1",
+  "categories": {
+    "Playback": {
+      "button_Play": {
+        "content": "fa-duotone fa-play",
+        "channel": 69420,
+        "command": "play"
+      },
+      "button_Pause": {
+        "content": "fa-duotone fa-pause",
+        "channel": 69420,
+        "command": "pause"
+      },
+      "button_Skip": {
+        "content": "fa-duotone fa-forward-fast",
+        "channel": 69420,
+        "command": "skip"
+      },
+      "button_Stop": {
+        "content": "fa-duotone fa-stop",
+        "channel": 69420,
+        "command": "stop"
+      },
+      "button_VolumeDown": {
+        "content": "fa-duotone fa-volume-low",
+        "channel": 69420,
+        "command": "volumedown"
+      },
+      "button_VolumeUp": {
+        "content": "fa-duotone fa-volume-high",
+        "channel": 69420,
+        "command": "volumeup"
+      }
+    },
+    "Options": {
+      "button_SongInfo": {
+        "content": "fa-duotone fa-message-music",
+        "channel": 69420,
+        "command": "songinfo now",
+        "ownerOnly": true
+      },
+      "button_AddPlaylist": {
+        "content": "fa-duotone fa-list-music",
+        "channel": 69420,
+        "command": "list now",
+        "ownerOnly": true
+      },
+      "button_AddFavorites": {
+        "content": "fa-duotone fa-heart-circle-plus",
+        "channel": 69420,
+        "command": "fav now",
+        "ownerOnly": true
+      },
+      "button_Menu": {
+        "content": "fa-duotone fa-bars",
+        "channel": 69420,
+        "command": "scmmenu",
+        "ownerOnly": true
+      }
+    }
+  }
+}

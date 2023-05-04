@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Pulse" transform="matrix(2.572,0,0,2.572,-139.488,-185.909)">
+        <path class="svgBtn fa-primary" d="M65.375,134.859L83.625,134.859L83.625,107.854C83.625,107.854 92.375,107.834 92.375,107.834C92.375,107.834 92.375,134.825 92.375,134.825L115.625,134.825L115.625,107.825C115.625,107.825 124.375,107.825 124.375,107.825C124.375,107.825 124.375,134.825 124.375,134.825L142.625,134.825L142.625,127.575L131.625,127.575C131.625,127.575 131.625,100.575 131.625,100.575L108.375,100.575L108.375,127.575C108.375,127.575 99.625,127.575 99.625,127.575C99.625,127.575 99.625,100.566 99.625,100.566L76.375,100.622L76.375,127.609L65.375,127.609L65.375,134.859Z"/>
+    </g>
+</svg>

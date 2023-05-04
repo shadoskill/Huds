@@ -1,0 +1,42 @@
+{
+    "name":"[EmptyList]/Big Tit Kit",
+    "version":"0.2",
+    "categories":{
+        "Nipples":{
+            "button_1":{
+                "content":"Nipple Adult",
+                "length":2,
+                "channel":10,
+                "command":"nipples,on"
+            },
+            "button_2":{
+                "content":"Nipple PG",
+                "length":2,
+                "channel":10,
+                "command":"nipples,off"
+            }
+        },
+        "Effects":{
+            "button_1":{
+                "content":"Drip On",
+                "channel":10,
+                "command":"effect,on"
+            },
+            "button_2":{
+                "content":"Drip Off",
+                "channel":10,
+                "command":"effect,off"
+            },
+            "button_3":{
+                "content":"Slap On",
+                "channel":10,
+                "command":"interact,click on"
+            },
+            "button_4":{
+                "content":"Slap Off",
+                "channel":10,
+                "command":"interact,click off"
+            }
+        }
+    }
+}

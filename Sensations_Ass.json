@@ -1,0 +1,288 @@
+{
+  "name": "Sensations/Ass",
+  "version": "0.3",
+  "categories": {
+    "Pose": {
+      "button_Hide": {
+        "content": "Hide",
+        "channel": -17487,
+        "command": "ass hide"
+      },
+      "button_Show": {
+        "content": "Show",
+        "channel": -17487,
+        "command": "ass show"
+      },
+      "button_Ass0": {
+        "content": "#0",
+        "channel": -17487,
+        "command": "ass 0"
+      },
+      "button_Ass1": {
+        "content": "#1",
+        "channel": -17487,
+        "command": "ass 1"
+      },
+      "button_Ass2": {
+        "content": "#2",
+        "channel": -17487,
+        "command": "ass 2"
+      },
+      "button_Ass3": {
+        "content": "#3",
+        "channel": -17487,
+        "command": "ass 3"
+      },
+      "button_Ass4": {
+        "content": "#4",
+        "channel": -17487,
+        "command": "ass 4"
+      },
+      "button_Ass5": {
+        "content": "#5",
+        "channel": -17487,
+        "command": "ass 5"
+      },
+      "button_Ass6": {
+        "content": "#6",
+        "channel": -17487,
+        "command": "ass 6"
+      },
+      "button_Ass7": {
+        "content": "#7",
+        "channel": -17487,
+        "command": "ass 7"
+      },
+      "button_Ass8": {
+        "content": "#8",
+        "channel": -17487,
+        "command": "ass 8"
+      },
+      "button_Ass9": {
+        "content": "#9",
+        "channel": -17487,
+        "command": "ass 9"
+      },
+      "button_Ass10": {
+        "content": "#10",
+        "channel": -17487,
+        "command": "ass 10"
+      },
+      "button_Ass11": {
+        "content": "#11",
+        "channel": -17487,
+        "command": "ass 11"
+      },
+      "button_Ass12": {
+        "content": "#12",
+        "channel": -17487,
+        "command": "ass 12"
+      }
+    },
+    "Animations": {
+      "slider_Thrust": {
+        "content": "Thrust",
+        "channel": -17487,
+        "command": "thrust !~slider~! ",
+        "min": 0,
+        "max": 4,
+        "sliderType": "integer"
+      },
+      "slider_Throb": {
+        "content": "Throb",
+        "channel": -17487,
+        "command": "throb !~slider~! ",
+        "min": 0,
+        "max": 4,
+        "sliderType": "integer"
+      }
+    },
+    "Anal Cavity": {
+      "toggle_PeeIn": {
+        "content": "Pee In",
+        "channel": -17487,
+        "command": "pee in !~toggle~!"
+      },
+      "toggle_Shitpie": {
+        "content": "Shitpie",
+        "channel": -17487,
+        "command": "shitpie !~toggle~!"
+      },
+      "slider_Creampie": {
+        "content": "Creampie",
+        "channel": -17487,
+        "command": "creampie !~slider~!",
+        "min": 0,
+        "max": 3,
+        "sliderType": "integer"
+      }
+    },
+    "Butt Play": {
+      "slider_CumOn": {
+        "content": "Cum On",
+        "channel": -17487,
+        "command": "cum on !~slider~!",
+        "min": 0,
+        "max": 3,
+        "sliderType": "integer"
+      },
+      "slider_Kisses": {
+        "content": "Kisses",
+        "channel": -17487,
+        "command": "kiss !~slider~!",
+        "min": 0,
+        "max": 6,
+        "sliderType": "integer"
+      },
+      "slider_Spank": {
+        "content": "Creampie",
+        "channel": -17487,
+        "command": "spanks !~slider~!",
+        "min": 0,
+        "max": 6,
+        "sliderType": "integer"
+      },
+      "slider_Whip": {
+        "content": "Creampie",
+        "channel": -17487,
+        "command": "whip !~slider~!",
+        "min": 0,
+        "max": 6,
+        "sliderType": "integer"
+      }
+    },
+    "Action": {
+      "button_Fart": {
+        "content": "Fart",
+        "channel": -17487,
+        "command": "fart"
+      },
+      "button_Gas": {
+        "content": "Gas",
+        "channel": -17487,
+        "command": "gas"
+      },
+      "button_Shit": {
+        "content": "Shit",
+        "channel": -17487,
+        "command": "shit"
+      },
+      "button_PrimPoop": {
+        "content": "Prim Poop",
+        "channel": -17487,
+        "command": "prim poop"
+      },
+      "toggle_Rainbow": {
+        "content": "rainbow",
+        "channel": -17487,
+        "command": "rainbow !~toggle~!"
+      },
+      "toddle_Drip": {
+        "content": "Drip",
+        "channel": -17487,
+        "command": "drip !~toggle~!"
+      },
+      "slider_Drool": {
+        "content": "Drool",
+        "channel": -17487,
+        "command": "drool !~slider~!",
+        "min": 0,
+        "max": 2,
+        "sliderType": "integer"
+      },
+      "slider_Enema": {
+        "content": "Enema",
+        "channel": -17487,
+        "command": "enema !~slider~!",
+        "min": 0,
+        "max": 2,
+        "sliderType": "integer"
+      },
+      "slider_Prolapse": {
+        "content": "Prolapse",
+        "channel": -17487,
+        "command": "prolapse !~slider~!",
+        "min": 0,
+        "max": 3,
+        "sliderType": "integer"
+      },
+      "slider_Shade": {
+        "content": "Shade",
+        "channel": -17487,
+        "command": "shadow !~slider~!",
+        "min": 0,
+        "max": 4,
+        "sliderType": "integer"
+      }
+    },
+    "Plugs": {
+      "button_LubeNone": {
+        "content": "Lube None",
+        "channel": -17487,
+        "command": "lube off"
+      },
+      "button_LubeEasy": {
+        "content": "Lube Easy",
+        "channel": -17487,
+        "command": "lube on"
+      },
+      "button_LubeHot": {
+        "content": "Lube Hot",
+        "channel": -17487,
+        "command": "lube hot"
+      },
+      "button_LubeHorny": {
+        "content": "Lube Horny",
+        "channel": -17487,
+        "command": "lube horny"
+      },
+      "button_BeadsIn": {
+        "content": "Beads In",
+        "channel": -17487,
+        "command": "Push In"
+      },
+      "button_BeadsOut": {
+        "content": "Beads Out",
+        "channel": -17487,
+        "command": "Pull Out"
+      },
+      "button_SpeaderCageTighten": {
+        "content": "Cage Tighten",
+        "channel": -17487,
+        "command": "Tighten"
+      },
+      "button_SpeaderCageLoosen": {
+        "content": "Cage Loosen",
+        "channel": -17487,
+        "command": "Loosen"
+      },
+      "button_DouchePumpPump": {
+        "content": "Pump Air",
+        "channel": -17487,
+        "command": "Pump Air"
+      },
+      "button_DouchePumpRelease": {
+        "content": "Release Air",
+        "channel": -17487,
+        "command": "Release Air"
+      },
+      "toggle_HalflingHouseDoor": {
+        "content": "Door Toggle",
+        "channel": -17487,
+        "command_on": "Open Door",
+        "command_off": "Close Door"
+      },
+      "toggle_HalflingHouseLight": {
+        "content": "Light Toggle",
+        "channel": -17487,
+        "command_on": "Light On",
+        "command_off": "Light Off"
+      },
+      "button_HookChain": {
+        "content": "Hook Chain",
+        "channel": -17487,
+        "command": "Hook Chain"
+      }
+    }
+  }
+}

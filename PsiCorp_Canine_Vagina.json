@@ -1,0 +1,120 @@
+{
+  "name": "PsiCorp/Canine Vagina",
+  "version": "0.1",
+  "categories": {
+    "States": {
+      "button_VagHide": {
+        "content": "Hide",
+        "channel": 5,
+        "command": "vag hide"
+      },
+      "button_VagClosed": {
+        "content": "Closed",
+        "channel": 5,
+        "command": "vag closed"
+      },
+      "button_VagAroused": {
+        "content": "Aroused",
+        "channel": 5,
+        "command": "vag aroused"
+      },
+      "button_VagSpread": {
+        "content": "Spread",
+        "channel": 5,
+        "command": "vag spread"
+      },
+      "button_VagGape": {
+        "content": "Gape",
+        "channel": 5,
+        "command": "vag gape"
+      }
+    },
+    "Controls": {
+      "slider_VagThrobStrength": {
+        "content": "Throb Strength",
+        "channel": 5,
+        "min": 5,
+        "max": 30,
+        "sliderType": "integer",
+        "command": "vag throb strength !~slider~!"
+      },
+      "button_VagThrob": {
+        "content": "Throb",
+        "channel": 5,
+        "command": "vag throb"
+      },
+      "button_VagAutohideHide": {
+        "content": "Autohide Hide",
+        "channel": 5,
+        "command": "vag autohide hide"
+      },
+      "button_VagAutohideSoft": {
+        "content": "Autohide Soft",
+        "channel": 5,
+        "command": "vag autohide soft"
+      },
+      "button_VagAutohideNone": {
+        "content": "Autohide None",
+        "channel": 5,
+        "command": "vag autohide none"
+      }
+    },
+    "Texture Effects": {
+      "button_VagClean": {
+        "content": "Clean",
+        "channel": 5,
+        "command": "vag clean"
+      },
+      "button_VagWet": {
+        "content": "Wet",
+        "channel": 5,
+        "command": "vag femjuice"
+      },
+      "button_VagCreampie": {
+        "content": "Creampie",
+        "channel": 5,
+        "command": "vag creampie"
+      }
+    },
+    "Particle Effects": {
+      "slider_VagParticleStrength": {
+        "content": "Particle Strength",
+        "channel": 5,
+        "min": 0,
+        "max": 1,
+        "sliderType": "float",
+        "command": "vag intensity !~slider~!"
+      },
+      "button_VagEffectsOff": {
+        "content": "Off",
+        "channel": 5,
+        "command": "vag effects off"
+      },
+      "button_VagCum": {
+        "content": "Cum",
+        "channel": 5,
+        "command": "vag cum"
+      },
+      "button_VagCumDrip": {
+        "content": "Cum Drip",
+        "channel": 5,
+        "command": "vag dcum"
+      },
+      "button_VagPre": {
+        "content": "Pre",
+        "channel": 5,
+        "command": "vag pre"
+      },
+      "button_VagPee": {
+        "content": "Pee",
+        "channel": 5,
+        "command": "vag pee"
+      },
+      "button_VagPeeDrip": {
+        "content": "Pee Drip",
+        "channel": 5,
+        "command": "vag dpee"
+      }
+    }
+  }
+}

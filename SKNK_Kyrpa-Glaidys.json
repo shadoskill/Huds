@@ -72,14 +72,14 @@
                 "command":"dong-show"
             },
             "button_6":{
-                "content":"Hide",
-                "channel":44,
-                "command":"dong-shaftmore"
-            },
-            "button_7":{
-                "content":"Show",
+                "content":"Hide Shaft",
                 "channel":44,
                 "command":"dong-shaftless"
+            },
+            "button_7":{
+                "content":"Show Shaft",
+                "channel":44,
+                "command":"dong-shaftmore"
             },
             "button_8":{
                 "content":"Snip",

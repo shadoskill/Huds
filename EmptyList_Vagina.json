@@ -4,80 +4,62 @@
     "categories":{
         "Vagina":{
             "button_1":{
-                "content":"Flat",
                 "channel":10,
                 "command":"vagina,flat"
             },
             "button_2":{
-                "content":"Vagina_Closed.svg",
                 "channel":10,
                 "command":"vagina,close"
             },
             "button_3":{
-                "content":"Vagina_Open.svg",
                 "channel":10,
                 "command":"vagina,open"
             },
             "button_4":{
-                "content":"Vagina_Gape.svg",
                 "channel":10,
                 "command":"vagina,gape"
-            }
-        },
-        "Anus":{
+            },
             "button_5":{
-                "content":"Flat",
                 "channel":10,
                 "command":"anus,flat"
             },
             "button_6":{
-                "content":"Anus_Closed.svg",
                 "channel":10,
                 "command":"anus,close"
             },
             "button_7":{
-                "content":"Anus_Open.svg",
                 "channel":10,
                 "command":"anus,open"
             },
             "button_8":{
-                "content":"Anus_Gape.svg",
                 "channel":10,
                 "command":"anus,gape"
-            }
-        },
-        "Urethra":{
+            },
+            "blank_0":{},
             "button_9":{
-                "content":"Anus_Closed.svg",
                 "channel":10,
                 "command":"urethra,close"
             },
             "button_10":{
-                "content":"Anus_Open.svg",
                 "channel":10,
                 "command":"urethra,open"
-            }
-        },
-        "Effects":{
+            },
+            "blank_1":{},
             "button_11":{
-                "content":"Stop",
                 "channel":10,
                 "command":"effect,stop"
             },
             "button_12":{
-                "content":"Droplet.svg",
                 "channel":10,
                 "command":"effect,drip",
                 "color":"#FFFFFF"
             },
             "button_13":{
-                "content":"Droplet Multi.svg",
                 "channel":10,
                 "command":"effect,cum",
                 "color":"#FFFFFF"
             },
             "button_14":{
-                "content":"Droplet.svg",
                 "channel":10,
                 "command":"effect,pee",
                 "color":"#e1e114"

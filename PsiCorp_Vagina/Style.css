@@ -16,10 +16,6 @@ list button{
     background: var(--iconAlt);
     padding: 0!important;
 }
-list slider-icon, list slider-text{
-    display: block;
-    position: absolute;
-}
 list button:hover{
     background: var(--iconMain);
 }

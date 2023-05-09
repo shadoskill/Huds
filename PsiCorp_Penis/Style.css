@@ -1,0 +1,243 @@
+#list_0{
+    display: block; 
+    background: no-repeat url('/Images/Huds/PsiCorp_Penis/Animesh Penis.png'); 
+    background-size: contain; 
+    background-position: center;
+    height: 940px;
+    padding-right: 87px;
+    padding-left: 88px;
+}
+list button{
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0.35;
+    background: var(--iconAlt);
+    padding: 0!important;
+}
+list button:hover{
+    background: var(--iconMain);
+}
+#button_1, #button_2, #button_3, #button_4{
+    left: 52px;
+    top: 112px;
+    height: 45px;
+    width: 110px;
+}
+.roundButton{
+    min-width: unset;
+    height: 42px;
+    width: 42px;
+    border-radius: 50%;
+}
+/* Hide */
+#button_5{
+    top: 367px;
+    left: 194px;
+}
+/* Hard */
+#button_6{
+    top: 227px;
+    left: 194px;
+    height: 40px;
+    width: 100px;
+}
+/* Soft */
+#button_7{
+    top: 180px;
+    left: 194px;
+    height: 40px;
+    width: 100px;
+}
+/* Throb */
+#button_8{
+    top: 263px;
+    left: 587px;
+}
+/* Short */
+#button_9{
+    top: 315px;
+    left: 587px;
+}
+/* Condom */
+#button_10{
+    top: 367px;
+    left: 587px;
+}
+/* Extra */
+#button_11{
+    top: 315px;
+    left: 421px;
+}
+/* Knot Small */
+#button_12{
+    top: 367px;
+    left: 316px;
+}
+/* Knot Medium */
+#button_13{
+    top: 367px;
+    left: 369px;
+}
+/* Know Large */
+#button_14{
+    top: 367px;
+    left: 421px;
+}
+/* Sway Stop */
+#button_15{
+    top: 569px;
+    left: 255px;
+}
+/* Stroke Stop */
+#button_16{
+    top: 669px;
+    left: 255px;
+}
+/* Sway */
+#button_17{
+    top: 569px;
+    left: 303px;
+}
+/* Sway Fast */
+#button_18{
+    top: 569px;
+    left: 351px;
+}
+/* Bounce */
+#button_19{
+    top: 619px;
+    left: 303px;
+}
+/* Bounce Fast */
+#button_20{
+    top: 619px;
+    left: 351px;
+}
+/* Stroke A */
+#button_21{
+    top: 669px;
+    left: 303px;
+}
+/* Stroke B */
+#button_22{
+    top: 669px;
+    left: 351px;
+}
+/* Balls Minus */
+#button_23{
+    top: 519px;
+    left: 303px;
+}
+/* Balls Plus */
+#button_24{
+    top: 519px;
+    left: 351px;
+}
+/* Balls Tilt Minus */
+#button_25{
+    top: 469px;
+    left: 303px;
+}
+/* Balls Tilt 0 */
+#button_26{
+    top: 469px;
+    left: 251px;
+}
+/* Balls Tilt Plus */
+#button_27{
+    top: 469px;
+    left: 351px;
+}
+/* Mess Off */
+#button_28{
+    top: 469px;
+    left: 483px;
+}
+/* Mess Minus */
+#button_29{
+    top: 469px;
+    left: 535px;
+}
+/* Mess Plus */
+#button_30{
+    top: 469px;
+    left: 587px;
+}
+/* 3D Cum */
+#button_31{
+    top: 521px;
+    left: 587px;
+}
+/* Particle Strength */
+#slider_32, #slider_43{
+    display: block;
+    position: relative;
+    left: 171px;
+    top: 870px;
+    height: 42px;
+    width: 262px;
+}
+#slider_32::-webkit-slider-thumb, #slider_43::-webkit-slider-thumb{
+    width: 24px;
+    height: 45px;
+}
+/* Effects Off */
+#button_33{
+    left: 275px;
+    top: 775px;
+}
+/* Cum */
+#button_34{
+    left: 402px;
+    top: 775px;
+}
+/* Cum Inside */
+#button_35{
+    left: 545px;
+    top: 775px;
+}
+/* Pre */
+#button_36{
+    left: 275px;
+    top: 827px;
+}
+/* Pee */
+#button_37{
+    left: 402px;
+    top: 827px;
+}
+/* Pee Inside */
+#button_38{
+    left: 545px;
+    top: 827px;
+}
+/* Bounce Stop */
+#button_39{
+    top: 619px;
+    left: 255px;
+}
+/* Penis Plus */
+#button_40{
+    top: 97px;
+    left: 194px;
+}
+/* Penis Minus */
+#button_41{
+    top: 315px;
+    left: 194px;
+}
+/* Sheath Mess */
+#button_42{
+    top: 573px;
+    left: 587px;
+}
+/* Penis States */
+#slider_43{
+    top: 120px;
+    left: -57px;
+    height: 44px;
+    width: 263px;
+    transform: rotate(-90deg);
+}

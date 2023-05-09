@@ -2,249 +2,171 @@
   "name": "PsiCorp/Penis",
   "version": "0.1",
   "categories": {
-    "States": {
+    "Penis": {
+      "button_discord": {
+        "content": "<i class=\"fa-brands fa-discord\" style=\"color: #7289da;\"></i>",
+        "channel": 0,
+        "command": "https://discord.psicorp.us/",
+        "class": "discord"
+      },
+      "button_twitter": {
+        "content": "<i class=\"fa-brands fa-twitter\"></i>",
+        "channel": 0,
+        "command": "https://twitter.com/officialpsicorp",
+        "class": "twitter"
+      },
+      "button_landmark": {
+        "content": "<i class=\"fa-duotone fa-thumbtack\"></i>",
+        "channel": 0,
+        "command": "http://maps.secondlife.com/secondlife/Amare/52/34/631",
+        "class": "landmark"
+      },
+      "button_marketplace": {
+        "content": "<img src=\"/Images/Huds/Secondlife Logo.png\"></img>",
+        "channel": 0,
+        "command": "https://marketplace.secondlife.com/stores/48263",
+        "class": "marketplace"
+      },
+      "button_group": {
+        "content": "<i class=\"fa-duotone fa-users\"></i>",
+        "channel": 0,
+        "command": "secondlife:///app/group/9907bc0a-94d4-c032-4bc5-f943baeb0ab0/about",
+        "class": "group"
+      },
       "button_Hide": {
-        "content": "Hide",
         "channel": 5,
-        "command": "hide"
+        "command": "hide",
+        "class": "roundButton"
       },
       "button_Soft": {
-        "content": "Soft",
         "channel": 5,
         "command": "soft"
       },
-      "button_Tip": {
-        "content": "Tip",
-        "channel": 5,
-        "command": "tip"
-      },
-      "button_Poke": {
-        "content": "Poke",
-        "channel": 5,
-        "command": "poke"
-      },
-      "button_Limp": {
-        "content": "Limp",
-        "channel": 5,
-        "command": "limp"
-      },
-      "button_Droop": {
-        "content": "Droop",
-        "channel": 5,
-        "command": "droop"
-      },
       "button_Hard": {
-        "content": "Hard",
         "channel": 5,
         "command": "hard"
       },
-      "button_Raised": {
-        "content": "Raised",
-        "channel": 5,
-        "command": "raised"
-      },
-      "button_RaisedHigh": {
-        "content": "Raised High",
-        "channel": 5,
-        "command": "raised_high"
-      },
-      "button_Right": {
-        "content": "Right",
-        "channel": 5,
-        "command": "right"
-      },
-      "button_OnBelly": {
-        "content": "On Belly",
-        "channel": 5,
-        "command": "onbelly"
-      },
-      "button_Left": {
-        "content": "Left",
-        "channel": 5,
-        "command": "left"
-      }
-    },
-    "Controls": {
-      "d-pad_Tilt": {
-        "channels": [5, 5, 5, 5, 5],
-        "commands": ["tiltv 5", "tilth -5", "tilt", "tilth 5", "tiltv -5"]
-      },
       "button_ThrobEggs": {
-        "content": "Throb/Eggs",
         "channel": 5,
-        "command": "throb"
+        "command": "throb",
+        "class": "roundButton"
       },
       "button_Short": {
-        "content": "Short",
         "channel": 5,
-        "command": "short"
+        "command": "short",
+        "class": "roundButton"
       },
       "button_Condom": {
-        "content": "Condom",
         "channel": 5,
-        "command": "condom"
+        "command": "condom",
+        "class": "roundButton"
       },
       "button_Flare": {
-        "content": "Flare",
         "channel": 5,
-        "command": "flare"
+        "command": "flare",
+        "class": "roundButton"
       },
       "button_KnotSmall": {
-        "content": "Knot Small",
         "channel": 5,
-        "command": "knot small"
+        "command": "knot small",
+        "class": "roundButton"
       },
       "button_KnotMedium": {
-        "content": "Knot Medium",
         "channel": 5,
-        "command": "knot medium"
+        "command": "knot medium",
+        "class": "roundButton"
       },
       "button_KnotLarge": {
-        "content": "Knot Large",
         "channel": 5,
-        "command": "knot large"
-      }
-    },
-    "Animations": {
+        "command": "knot large",
+        "class": "roundButton"
+      },
       "button_Stop": {
-        "content": "Stop",
         "channel": 5,
-        "command": "stop"
+        "command": "stop",
+        "class": "roundButton"
       },
       "button_StrokeStop": {
-        "content": "Stroke Stop",
         "channel": 5,
-        "command": "strokestop"
+        "command": "strokestop",
+        "class": "roundButton"
       },
       "button_BallSway": {
-        "content": "Balls Sway",
         "channel": 5,
-        "command": "ballsway"
+        "command": "ballsway",
+        "class": "roundButton"
       },
       "button_BallSwayFast": {
-        "content": "Balls Sway fast",
         "channel": 5,
-        "command": "ballswayfast"
+        "command": "ballswayfast",
+        "class": "roundButton"
       },
       "button_Bounce": {
-        "content": "Bounce",
         "channel": 5,
-        "command": "bounce"
+        "command": "bounce",
+        "class": "roundButton"
       },
       "button_BounceFast": {
-        "content": "Bounce Fast",
         "channel": 5,
-        "command": "bouncefast"
+        "command": "bouncefast",
+        "class": "roundButton"
       },
       "button_StrokeA": {
-        "content": "Stroke A",
         "channel": 5,
-        "command": "strokehip"
+        "command": "strokehip",
+        "class": "roundButton"
       },
       "button_StrokeB": {
-        "content": "Stroke B",
         "channel": 5,
-        "command": "stroke"
-      }
-    },
-    "Balls Size": {
-      "button_BallsOff": {
-        "content": "Balls Off",
-        "channel": 5,
-        "command": "balls off"
+        "command": "stroke",
+        "class": "roundButton"
       },
-      "button_BallsSmall": {
-        "content": "Balls Small",
+      "button_BallsMinus": {
         "channel": 5,
-        "command": "balls small"
+        "command": "",
+        "class": "roundButton"
       },
-      "button_BallsMedium": {
-        "content": "Balls Medium",
+      "button_BallsPlus": {
         "channel": 5,
-        "command": "balls medium"
+        "command": "",
+        "class": "roundButton"
       },
-      "button_BallsLarge": {
-        "content": "Balls Large",
+      "button_BallsTiltMinus": {
         "channel": 5,
-        "command": "balls large"
-      },
-      "button_SwayOff": {
-        "content": "",
-        "channel": 5,
-        "command": ""
-      }
-    },
-    "Balls Tilt": {
-      "button_BallsTilt-30": {
-        "content": "-30",
-        "channel": 5,
-        "command": "ballangle -30"
-      },
-      "button_BallsTilt-20": {
-        "content": "-20",
-        "channel": 5,
-        "command": "ballangle -20"
-      },
-      "button_BallsTilt-10": {
-        "content": "-10",
-        "channel": 5,
-        "command": "ballangle -10"
+        "command": "ballangle #",
+        "class": "roundButton"
       },
       "button_BallsTilt0": {
-        "content": "0",
         "channel": 5,
-        "command": "ballangle 0"
+        "command": "ballangle 0",
+        "class": "roundButton"
       },
-      "button_BallsTilt10": {
-        "content": "10",
+      "button_BallsTiltPlus": {
         "channel": 5,
-        "command": "ballangle 10"
+        "command": "ballangle 30",
+        "class": "roundButton"
       },
-      "button_BallsTilt20": {
-        "content": "20",
-        "channel": 5,
-        "command": "ballangle 20"
-      },
-      "button_BallsTilt30": {
-        "content": "30",
-        "channel": 5,
-        "command": "ballangle 30"
-      }
-    },
-    "Mess": {
       "button_MessOff": {
-        "content": "Off",
         "channel": 5,
-        "command": "mess off"
+        "command": "mess off",
+        "class": "roundButton"
       },
-      "button_MessLow": {
-        "content": "Low",
+      "button_MessMinus": {
         "channel": 5,
-        "command": "mess low"
+        "command": "",
+        "class": "roundButton"
       },
-      "button_MessMedium": {
-        "content": "Medium",
+      "button_MessPlus": {
         "channel": 5,
-        "command": "mess medium"
-      },
-      "button_MessHigh": {
-        "content": "High",
-        "channel": 5,
-        "command": "mess high"
+        "command": "",
+        "class": "roundButton"
       },
       "button_3dCum": {
-        "content": "3d Cum",
         "channel": 5,
-        "command": "3dcum"
+        "command": "3dcum",
+        "class": "roundButton"
       },
-      "button_SheathCum": {
-        "content": "Sheath",
-        "channel": 5,
-        "command": "sheathmess"
-      }
-    },
-    "Particle Effects": {
-      "slider_ParticleStrength": {
+      "sliderRaw_ParticleStrength": {
         "content": "Particle Strength",
         "channel": 5,
         "min": 0,
@@ -253,34 +175,62 @@
         "command": "intensity !~slider~!"
       },
       "button_EffectsOff": {
-        "content": "Off",
         "channel": 5,
-        "command": "effects off"
+        "command": "effects off",
+        "class": "roundButton"
       },
       "button_Cum": {
-        "content": "Cum",
         "channel": 5,
-        "command": "cum"
+        "command": "cum",
+        "class": "roundButton"
       },
       "button_CumInside": {
-        "content": "Cum Inside",
         "channel": 5,
-        "command": "backcum"
+        "command": "backcum",
+        "class": "roundButton"
       },
       "button_Pre": {
-        "content": "Pre",
         "channel": 5,
-        "command": "pre"
+        "command": "pre",
+        "class": "roundButton"
       },
       "button_Pee": {
-        "content": "Pee",
         "channel": 5,
-        "command": "pee"
+        "command": "pee",
+        "class": "roundButton"
       },
       "button_PeeInside": {
-        "content": "Pee Inside",
         "channel": 5,
-        "command": "backpee"
+        "command": "backpee",
+        "class": "roundButton"
+      },
+
+      "button_BounceStop": {
+        "channel": 5,
+        "command": "stop",
+        "class": "roundButton"
+      },
+      "button_PenisPlus": {
+        "channel": 5,
+        "command": "harder",
+        "class": "roundButton"
+      },
+      "button_PenisMinus": {
+        "channel": 5,
+        "command": "softer",
+        "class": "roundButton"
+      },
+      "button_Sheath": {
+        "channel": 5,
+        "command": "sheathmess",
+        "class": "roundButton"
+      },
+      "sliderRaw_PenisState": {
+        "channel": 5,
+        "min": 0,
+        "max": 10,
+        "commandArray": ["soft", "tip", "poke", "limp", "droop", "hard", "raised", "raised_high", "right", "onbelly", "left"],
+        "command": "intensity !~slider~!"
       }
     }
   }

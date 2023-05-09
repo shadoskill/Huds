@@ -1,0 +1,191 @@
+#list_0{
+    display: block; 
+    background: no-repeat url('/Images/Huds/PsiCorp_Vagina/Animesh Vagina.png'); 
+    background-size: contain; 
+    background-position: center;
+    height: 940px;
+    padding-right: 87px;
+    padding-left: 88px;
+}
+list button{
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0.35;
+    background: var(--iconAlt);
+    padding: 0!important;
+}
+list slider-icon, list slider-text{
+    display: block;
+    position: absolute;
+}
+list button:hover{
+    background: var(--iconMain);
+}
+#button_1, #button_2, #button_3, #button_4{
+    left: 52px;
+    top: 112px;
+    height: 45px;
+    width: 110px;
+}
+.roundButton{
+    min-width: unset;
+    height: 44px;
+    width: 44px;
+    border-radius: 50%;
+}
+/* Hide */
+#button_0{
+    top: 170px;
+    left: 138px;
+}
+/* Closed */
+#button_1{
+    left: 140px;
+}
+/* Exposed */
+#button_2{
+    left: 266px;
+}
+/* Open */
+#button_3{
+    left: 392px;
+}
+/* Gape */
+#button_4{
+    left: 518px;
+}
+/* Twitch */
+#button_10{
+    left: 538px;
+    top: 170px;
+}
+/* Labia */
+#button_11{
+    left: 540px;
+    top: 260px;
+}
+/* Lay Egg */
+#button_12{
+    left: 219px;
+    top: 432px;
+}
+/* Rez Egg */
+#button_13{
+    left: 460px;
+    top: 432px;
+}
+/* Toy Stop */
+#button_14{
+    left: 220px;
+    top: 558px;
+}
+/* Toy Stop */
+#button_15{
+    left: 220px;
+    top: 615px;
+}
+/* Canine Shallow */
+#button_16{
+    left: 277px;
+    top: 558px;
+}
+/* Canine Deep */
+#button_17{
+    left: 334px;
+    top: 558px;
+}
+/* Human Shallow */
+#button_18{
+    left: 277px;
+    top: 615px;
+}
+/* Human Deep */
+#button_19{
+    left: 334px;
+    top: 615px;
+}
+/* Mess Off */
+#button_20{
+    left: 460px;
+    top: 558px;
+}
+/* Mess - */
+#button_21{
+    left: 517px;
+    top: 558px;
+}
+/* Mess + */
+#button_22{
+    left: 574px;
+    top: 558px;
+}
+/* 3D Cum */
+#button_23{
+    left: 574px;
+    top: 615px;
+}
+/* Particle Strength */
+#slider_24{
+    display: block;
+    position: relative;
+    left: 159px;
+    top: 849px;
+    height: 45px;
+    width: 287px;    
+}
+#slider_24::-webkit-slider-thumb{
+    width: 24px;
+    height: 45px;
+}
+/* Effects Off */
+#button_25{
+    left: 265px;
+    top: 741px;
+}
+/* Cum */
+#button_26{
+    left: 405px;
+    top: 740px;
+}
+/* Drip */
+#button_27{
+    left: 563px;
+    top: 740px;
+}
+/* Pre */
+#button_28{
+    left: 265px;
+    top: 798px;
+}
+/* Pee */
+#button_29{
+    left: 405px;
+    top: 798px;
+}
+/* Pee Drip */
+#button_30{
+    left: 563px;
+    top: 798px;
+}
+/* Alt Fit */
+#button_31{
+    left: 277px;
+    top: 318px;
+}
+/* Trans Clit */
+#button_32{
+    left: 540px;
+    top: 318px;
+}
+/* Depth Less */
+#button_33{
+    left: 219px;
+    top: 261px;
+}
+/* Depth More */
+#button_34{
+    left: 277px;
+    top: 261px;
+}

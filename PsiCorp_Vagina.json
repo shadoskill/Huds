@@ -2,116 +2,131 @@
   "name": "PsiCorp/Vagina",
   "version": "0.1",
   "categories": {
-    "States": {
+    "Vagina": {
       "button_VagHide": {
-        "content": "Hide",
         "channel": 5,
-        "command": "vag hide"
+        "command": "vag hide",
+        "class": "roundButton"
       },
       "button_VagClosed": {
-        "content": "Closed",
         "channel": 5,
         "command": "vag closed"
       },
       "button_VagExposed": {
-        "content": "Exposed",
         "channel": 5,
         "command": "vag exposed"
       },
       "button_VagOpen": {
-        "content": "Open",
         "channel": 5,
         "command": "vag open"
       },
       "button_VagGape": {
-        "content": "Gape",
         "channel": 5,
         "command": "vag gape"
-      }
-    },
-    "Controls": {
+      },
+      "button_discord": {
+        "content": "<i class=\"fa-brands fa-discord\" style=\"color: #7289da;\"></i>",
+        "channel": 0,
+        "command": "https://discord.psicorp.us/",
+        "class": "discord"
+      },
+      "button_twitter": {
+        "content": "<i class=\"fa-brands fa-twitter\"></i>",
+        "channel": 0,
+        "command": "https://twitter.com/officialpsicorp",
+        "class": "twitter"
+      },
+      "button_landmark": {
+        "content": "<i class=\"fa-duotone fa-thumbtack\"></i>",
+        "channel": 0,
+        "command": "http://maps.secondlife.com/secondlife/Amare/52/34/631",
+        "class": "landmark"
+      },
+      "button_marketplace": {
+        "content": "<img src=\"/Images/Huds/Secondlife Logo.png\"></img>",
+        "channel": 0,
+        "command": "https://marketplace.secondlife.com/stores/48263",
+        "class": "marketplace"
+      },
+      "button_group": {
+        "content": "<i class=\"fa-duotone fa-users\"></i>",
+        "channel": 0,
+        "command": "secondlife:///app/group/9907bc0a-94d4-c032-4bc5-f943baeb0ab0/about",
+        "class": "group"
+      },
       "button_VagTwitch": {
-        "content": "Twitch",
         "channel": 5,
-        "command": "vag twitch"
+        "command": "vag twitch",
+        "class": "roundButton"
       },
       "button_VagLabia": {
-        "content": "Labia",
         "channel": 5,
-        "command": "vag labia"
+        "command": "vag labia",
+        "class": "roundButton"
       },
       "button_VagOvi": {
-        "content": "Lay Egg",
         "channel": 5,
-        "command": "vag ovi"
+        "command": "vag ovi",
+        "class": "roundButton"
       },
       "button_VagOvirez": {
-        "content": "Egg Rezzing",
         "channel": 5,
-        "command": "vag ovirez"
-      }
-    },
-    "Toys": {
-      "button_VagToyStop": {
-        "content": "Stop",
+        "command": "vag ovirez",
+        "class": "roundButton"
+      },
+      "button_VagToyStopA": {
         "channel": 5,
-        "command": "vag toy stop"
+        "command": "vag toy stop",
+        "class": "roundButton"
+      },
+      "button_VagToyStopB": {
+        "channel": 5,
+        "command": "vag toy stop",
+        "class": "roundButton"
       },
       "button_VagCanineShallow": {
-        "content": "Canine Shallow",
         "channel": 5,
-        "command": "vag toy canine shallow"
+        "command": "vag toy canine shallow",
+        "class": "roundButton"
       },
       "button_VagCanineDeep": {
-        "content": "Canine Deep",
         "channel": 5,
-        "command": "vag toy canine deep"
+        "command": "vag toy canine deep",
+        "class": "roundButton"
       },
       "button_VagHumanShallow": {
-        "content": "Human Shallow",
         "channel": 5,
-        "command": "vag toy human shallow"
+        "command": "vag toy human shallow",
+        "class": "roundButton"
       },
       "button_VagHumanDeep": {
-        "content": "Human Deep",
         "channel": 5,
-        "command": "vag toy human deep"
-      }
-    },
-    "Mess": {
+        "command": "vag toy human deep",
+        "class": "roundButton"
+      },
+
       "button_VagMessOff": {
-        "content": "Off",
         "channel": 5,
-        "command": "vag mess off"
+        "command": "vag mess off",
+        "class": "roundButton"
       },
-      "button_VagMessWet": {
-        "content": "Wet",
+      "button_VagMessLess": {
         "channel": 5,
-        "command": "vag mess wet"
+        "command": "vag mess wet",
+        "class": "roundButton"
       },
-      "button_VagMessSmall": {
-        "content": "Small",
+      "button_VagMessMore": {
         "channel": 5,
-        "command": "vag mess small"
-      },
-      "button_VagMessThick": {
-        "content": "Thick",
-        "channel": 5,
-        "command": "vag mess thick"
-      },
-      "button_VagMessBig": {
-        "content": "Big",
-        "channel": 5,
-        "command": "vag mess big"
+        "command": "vag mess small",
+        "class": "roundButton"
       },
       "button_Vag3dCum": {
-        "content": "3d Cum",
         "channel": 5,
-        "command": "vag 3d cum"
-      }
-    },
-    "Particle Effects": {
-      "slider_VagParticleStrength": {
+        "command": "vag 3d cum",
+        "class": "roundButton"
+      },
+
+      "sliderRaw_VagParticleStrength": {
         "content": "Particle Strength",
         "channel": 5,
         "min": 0,
@@ -120,35 +135,57 @@
         "command": "vag intensity !~slider~!"
       },
       "button_VagEffectsOff": {
-        "content": "Off",
         "channel": 5,
-        "command": "vag effects off"
+        "command": "vag effects off",
+        "class": "roundButton"
       },
       "button_VagCum": {
-        "content": "Cum",
         "channel": 5,
-        "command": "vag femcum"
+        "command": "vag femcum",
+        "class": "roundButton"
       },
       "button_VagCumDrip": {
-        "content": "Cum Drip",
         "channel": 5,
-        "command": "vag dcum"
+        "command": "vag dcum",
+        "class": "roundButton"
       },
       "button_VagPre": {
-        "content": "Pre",
         "channel": 5,
-        "command": "vag fempre"
+        "command": "vag fempre",
+        "class": "roundButton"
       },
       "button_VagPee": {
-        "content": "Pee",
         "channel": 5,
-        "command": "vag pee"
+        "command": "vag pee",
+        "class": "roundButton"
       },
       "button_VagPeeDrip": {
-        "content": "Pee Drip",
         "channel": 5,
-        "command": "vag dpee"
-      }
+        "command": "vag dpee",
+        "class": "roundButton"
+      },
+
+      "button_AltFit": {
+        "channel": 5,
+        "command": "vag fitting",
+        "class": "roundButton"
+      },
+      "button_TransClit": {
+        "channel": 5,
+        "command": "vag clit",
+        "class": "roundButton"
+      },
+
+      "button_DepthLess": {
+        "channel": 5,
+        "command": "vag depth",
+        "class": "roundButton"
+      },
+      "button_DepthMore": {
+        "channel": 5,
+        "command": "vag depth",
+        "class": "roundButton"
+      }      
     }
   }
 }

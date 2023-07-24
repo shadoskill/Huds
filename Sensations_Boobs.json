@@ -83,12 +83,12 @@
       "button_Invrt1": {
         "content": "Invert 1",
         "channel": -80085,
-        "command": "nipple invrt1"
+        "command": "nipple ivrt1"
       },
       "button_Invrt2": {
         "content": "Invert 2",
         "channel": -80085,
-        "command": "nipple invrt2"
+        "command": "nipple ivrt2"
       },
       "button_Hole0": {
         "content": "Hole 0",
@@ -112,7 +112,7 @@
       }
     },
     "Interact": {
-      "toggle_PeeIn": {
+      "toggle_PeeOn": {
         "content": "Pee On",
         "channel": -80085,
         "command": "pee on !~toggle~!"

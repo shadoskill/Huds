@@ -135,7 +135,7 @@
         "sliderType": "integer"
       },
       "slider_Spank": {
-        "content": "Creampie",
+        "content": "Spank",
         "channel": -17487,
         "command": "spanks !~slider~!",
         "min": 0,
@@ -143,7 +143,7 @@
         "sliderType": "integer"
       },
       "slider_Whip": {
-        "content": "Creampie",
+        "content": "Whip",
         "channel": -17487,
         "command": "whip !~slider~!",
         "min": 0,
@@ -173,7 +173,7 @@
         "command": "prim poop"
       },
       "toggle_Rainbow": {
-        "content": "rainbow",
+        "content": "Rainbow",
         "channel": -17487,
         "command": "rainbow !~toggle~!"
       },

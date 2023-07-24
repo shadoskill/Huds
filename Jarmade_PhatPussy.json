@@ -1,0 +1,60 @@
+{
+  "name": "LoveBridge/Remote",
+  "version": "0.1",
+  "categories": {
+    "States": {
+      "button_Hide": {
+        "content": "Hide",
+        "channel": 19283924,
+        "command": "MODE|-1"
+      },
+      "button_Cameltoe": {
+        "content": "Cameltoe",
+        "channel": 19283924,
+        "command": "MODE|0"
+      },
+      "button_Closed": {
+        "content": "Closed",
+        "channel": 19283924,
+        "command": "MODE|1"
+      },
+      "button_Spread": {
+        "content": "Spread",
+        "channel": 19283924,
+        "command": "MODE|2"
+      },
+      "button_Gape": {
+        "content": "Gape",
+        "channel": 19283924,
+        "command": "MODE|3"
+      },
+      "button_Penetrate": {
+        "content": "Penetrate",
+        "channel": 19283924,
+        "command": "MODE|4"
+      },
+      "button_Wider": {
+        "content": "Wider",
+        "channel": 19283924,
+        "command": "MODE|5"
+      }
+    },
+    "Settings": {
+      "button_Cervix": {
+        "content": "Toggle Cervix",
+        "channel": 19283924,
+        "command": "CERVIX|TOGGLE"
+      },
+      "button_RLV": {
+        "content": "Toggle RLV",
+        "channel": 19283924,
+        "command": "toggle_rlv"
+      },
+      "button_Update": {
+        "content": "Check Updates",
+        "channel": 19283924,
+        "command": "check_update"
+      }
+    }
+  }
+}

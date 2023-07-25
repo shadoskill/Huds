@@ -3,6 +3,11 @@
   "version": "0.1",
   "categories": {
     "Patterns / Vibration": {
+      "button_Stop": {
+        "content": "Stop",
+        "channel": -4257001,
+        "command": "!~uuidTarget~!|vibrate|0"
+      },
       "button_Custom": {
         "content": "Custom.svg",
         "channel": -4257001,
@@ -23,10 +28,28 @@
         "channel": -4257001,
         "command": "!~uuidTarget~!|pattern|3"
       },
+      "button_Quake": {
+        "content": "Quake.svg",
+        "channel": -4257001,
+        "command": "!~uuidTarget~!|pattern|4"
+      },
+      "button_Cycle": {
+        "content": "Cycle",
+        "channel": -4257001,
+        "command": "!~uuidTarget~!|pattern|5"
+      },
       "slider_Vibration": {
         "content": "Level",
         "channel": -4257001,
         "command": "!~uuidTarget~!|vibrate|!~slider~!",
+        "min": 0,
+        "max": 20,
+        "sliderType": "integer"
+      },
+      "slider_Special": {
+        "content": "Special",
+        "channel": -4257001,
+        "command": "!~uuidTarget~!|special|!~slider~!",
         "min": 0,
         "max": 20,
         "sliderType": "integer"

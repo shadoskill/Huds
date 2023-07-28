@@ -29,7 +29,7 @@
         "command": "!~uuidTarget~!|pattern|3"
       },
       "button_Quake": {
-        "content": "Quake.svg",
+        "content": "Earthquake.svg",
         "channel": -4257001,
         "command": "!~uuidTarget~!|pattern|4"
       },

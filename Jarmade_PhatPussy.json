@@ -39,6 +39,75 @@
         "command": "MODE|5"
       }
     },
+    "Particles": {
+      "button_Off": {
+        "content": "Off",
+        "channel": 71028493,
+        "command": "off"
+      },
+      "button_Pee": {
+        "content": "Pee",
+        "channel": 71028493,
+        "command": "pee;0.6;0"
+      },
+      "button_Cum1": {
+        "content": "Cum 1",
+        "channel": 71028493,
+        "command": "cum1;0.6;0"
+      },
+      "button_Cum2": {
+        "content": "Cum 2",
+        "channel": 71028493,
+        "command": "cum2;0.6;0"
+      },
+      "button_Cum3": {
+        "content": "Cum 3",
+        "channel": 71028493,
+        "command": "cum3;0.6;0"
+      },
+      "button_Cum4": {
+        "content": "Cum 4",
+        "channel": 71028493,
+        "command": "cum4;0.6;0"
+      },
+      "button_Cum5": {
+        "content": "Cum 5",
+        "channel": 71028493,
+        "command": "cum5;0.6;0"
+      },
+    },
+    "Particles Rotated": {
+      "button_PeeRotated": {
+        "content": "Pee",
+        "channel": 71028493,
+        "command": "pee;0.6;-45"
+      },
+      "button_Cum1Rotated": {
+        "content": "Cum 1",
+        "channel": 71028493,
+        "command": "cum1;0.6;-45"
+      },
+      "button_Cum2Rotated": {
+        "content": "Cum 2",
+        "channel": 71028493,
+        "command": "cum2;0.6;-45"
+      },
+      "button_Cum3Rotated": {
+        "content": "Cum 3",
+        "channel": 71028493,
+        "command": "cum3;0.6;-45"
+      },
+      "button_Cum4Rotated": {
+        "content": "Cum 4",
+        "channel": 71028493,
+        "command": "cum4;0.6;-45"
+      },
+      "button_Cum5Rotated": {
+        "content": "Cum 5",
+        "channel": 71028493,
+        "command": "cum5;0.6;-45"
+      },
+    },
     "Settings": {
       "button_Cervix": {
         "content": "Toggle Cervix",

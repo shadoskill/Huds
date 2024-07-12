@@ -1,0 +1,70 @@
+{
+	"name": "R.O.S.S./Squirt",
+	"version": "0.1",
+	"categories": {
+		"States": {
+			"button_Squirt": {
+				"content": "Squirt",
+				"channel": 1815194,
+				"command": "squirt"
+			},
+			"button_SquirtOn": {
+				"content": "Squirt On",
+				"channel": 1815194,
+				"command": "squirt on"
+			},
+			"button_SquirtOff": {
+				"content": "Squirt Off",
+				"channel": 1815194,
+				"command": "squirt off"
+			},
+			"button_SquirtDroolOn": {
+				"content": "Squirt Drool On",
+				"channel": 1815194,
+				"command": "squirtdrool on"
+			},
+			"button_SquirtDroolOff": {
+				"content": "Squirt Drool Off",
+				"channel": 1815194,
+				"command": "squirtdrool off"
+			}
+    },
+		"Squirt Angles": {
+			"button_Squirt4": {
+				"content": "Squirt +4",
+				"channel": 1815194,
+				"command": "squirt4"
+			},
+			"button_Squirt3": {
+				"content": "Squirt +3",
+				"channel": 1815194,
+				"command": "squirt3"
+			},
+			"button_Squirt2": {
+				"content": "Squirt +2",
+				"channel": 1815194,
+				"command": "squirt2"
+			},
+			"button_Squirt1": {
+				"content": "Squirt +1",
+				"channel": 1815194,
+				"command": "squirt1"
+			},
+			"button_Squirt5": {
+				"content": "Squirt -1",
+				"channel": 1815194,
+				"command": "squirt5"
+			},
+			"button_Squirt6": {
+				"content": "Squirt -2",
+				"channel": 1815194,
+				"command": "squirt6"
+			},
+			"button_Squirt7": {
+				"content": "Squirt -3",
+				"channel": 1815194,
+				"command": "squirt7"
+			},
+		}
+	}
+}
